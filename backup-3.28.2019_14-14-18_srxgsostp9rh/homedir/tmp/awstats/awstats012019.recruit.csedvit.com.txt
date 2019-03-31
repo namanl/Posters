@@ -1,0 +1,422 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201901 will be lost/reset.
+# Last config file used to build this data file was /home/srxgsostp9rh/tmp/awstats/awstats.recruit.csedvit.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2692                
+POS_VISITOR 6938                
+POS_DAY 8095                
+POS_DOMAIN 3374                
+POS_LOGIN 3652                
+POS_ROBOT 3807                
+POS_WORMS 4098                
+POS_EMAILSENDER 4229                
+POS_EMAILRECEIVER 4372                
+POS_SESSION 8827                
+POS_SIDER 9006                
+POS_FILETYPES 4507                
+POS_DOWNLOADS 4714                
+POS_OS 4781                
+POS_BROWSER 4930                
+POS_SCREENSIZE 5179                
+POS_UNKNOWNREFERER 5253                
+POS_UNKNOWNREFERERBROWSER 5571                
+POS_ORIGIN 5754                
+POS_SEREFERRALS 5892                
+POS_PAGEREFS 6036                
+POS_SEARCHWORDS 6273                
+POS_KEYWORDS 6425                
+POS_MISC 2355                
+POS_ERRORS 6484                
+POS_CLUSTER 3508                
+POS_SIDER_404 6612                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190201134550 1 0 8183009648956
+FirstTime 20190101013133
+LastTime 20190131193816
+LastUpdate 20190202052749 1 0 0 0 0
+TotalVisits 149                 
+TotalUnique 25                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 29                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 77 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 10 10 35752 4 17 70229
+1 36 36 174266 2 9 12492
+2 12 12 56181 1 7 23242
+3 18 51 446797 6 14 42591
+4 5 5 23835 1 11 36945
+5 3 3 0 2 7 18118
+6 9 42 441581 0 3 0
+7 32 32 144726 3 19 112272
+8 16 16 70961 2 18 80595
+9 13 13 56182 3 9 13507
+10 14 47 429668 4 16 54572
+11 8 8 11917 8 38 246496
+12 4 4 11917 1 7 11986
+13 20 53 476786 1 9 41763
+14 15 49 535790 1 7 23582
+15 0 0 0 0 0 0
+16 2 2 0 2 5 20130
+17 4 4 0 4 28 147029
+18 4 4 0 4 8 17010
+19 16 16 59024 4 10 13567
+20 4 4 14763 1 7 12055
+21 5 5 23835 1 4 1243
+22 5 5 35751 0 4 0
+23 5 38 387570 0 16 143184
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+sg 212 212 695042
+us 34 134 1519027
+in 10 76 817329
+ie 4 37 405835
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Googlebot/ 144 1080602 20190131230148 21
+YandexBot/ 38 13975 20190131183814 19
+BLEXBot/ 4 12124 20190123033626 3
+facebookexternalhit/ 1 11255 20190106025512 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+ttf 1 36038 0 0
+js 108 1130514 0 0
+html 33 439564 0 0
+woff 1 97913 0 0
+php 216 637286 0 0
+png 6 67530 0 0
+woff2 9 506158 0 0
+css 85 522161 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 0 1 69
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win7 80 47
+linuxandroid 79 13
+ios_iphone 2 2
+linux 17 17
+Unknown 208 173
+win10 74 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+chrome71.0.3578.98 74 8
+chrome49.0.2623.75 17 17
+safari11.0 1 1
+safari6.0.5 38 4
+firefox17.0 43 43
+chrome70.0.3538.80 35 2
+chrome71.0.3578.99 44 11
+chrome41.0.2228.0 37 4
+Unknown 170 169
+iphone 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_AppleWebKit/536.30.1_(KHTML,_like_Gecko)_Version/6.0.5_Safari/536.30.1_Installatron_(Mimicking_WebKit) 20190106142232
+WordPress/4.9.8;_http://recruit.csedvit.com 20190131193816
+Installatron_Plugin/9.1.42 20190131133217
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.9.8;_http://recruit.csedvit.com 20190131193816
+Installatron_Plugin/9.1.42 20190131133217
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 116 117
+From1 0 0
+From2 0 0
+From3 4 4
+From4 140 339
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://l.instagram.com 2 2
+https://www.facebook.com 1 1
+http://l.facebook.com/l.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 1 244
+302 3 0
+206 1 11918
+500 2 502
+404 2 11988
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/sitemap.xml 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 29
+43.255.154.29 212 212 695042 20190131193816
+136.233.9.97 4 37 405835 20190129104109
+69.162.68.206 4 38 433291 20190106142232
+66.102.6.192 4 4 47669 20190115220543
+117.204.242.243 4 37 405833 20190103130928
+66.102.6.220 4 4 47667 20190115095711
+42.111.147.189 3 3 23925 20190116062821
+64.233.173.172 3 13 170788 20190116101808
+117.221.200.146 2 35 375653 20190103231645
+66.102.6.142 2 2 23834 20190131133553
+31.13.115.8 2 12 144570 20190120032707
+64.233.172.231 2 2 23835 20190123043518
+64.233.172.235 2 2 23836 20190121075627
+64.233.172.233 1 1 11917 20190124122132
+66.102.6.144 1 1 11917 20190126100305
+139.167.49.2 1 1 11917 20190116003050
+157.51.98.41 1 1 11917 20190111030841
+64.233.173.168 1 13 175922 20190116062758
+31.13.115.12 1 1 77162 20190120032706
+157.50.75.152 1 1 11917 20190121001302
+31.13.115.4 1 8 35564 20190120032701
+66.102.6.222 1 1 11917 20190115220548
+64.233.173.170 1 12 82862 20190116062759
+223.182.241.92 1 1 11918 20190102210924
+136.233.9.96 1 1 11917 20190106110732
+173.252.87.3 0 1 69 
+31.13.115.13 0 4 62480 
+31.13.115.3 0 6 20601 
+31.13.115.1 0 6 65458 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190101 5 5 14759 3
+20190102 9 9 41436 4
+20190103 14 80 796245 8
+20190104 9 9 44289 3
+20190105 5 5 14763 3
+20190106 14 48 530108 7
+20190107 8 8 26681 5
+20190108 4 4 14763 2
+20190109 7 7 26679 5
+20190110 6 6 26680 4
+20190111 9 9 41443 5
+20190112 7 7 38595 5
+20190113 5 5 14761 3
+20190114 5 5 14761 3
+20190115 11 11 50506 8
+20190116 15 48 465414 10
+20190117 6 6 29510 2
+20190118 7 7 26672 5
+20190119 5 5 14755 3
+20190120 12 45 432646 8
+20190121 9 9 38591 7
+20190122 8 8 29510 3
+20190123 10 10 41427 5
+20190124 7 7 28907 5
+20190125 11 11 44265 5
+20190126 9 9 26672 7
+20190127 5 5 14755 3
+20190128 6 6 29510 2
+20190129 15 48 450100 6
+20190130 3 3 11917 3
+20190131 14 14 56182 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30mn-1h 7
+30s-2mn 3
+0s-30s 137
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 94
+/wp-cron.php 124 0 76 109
+/ 33 439564 31 26
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff2 5 385810 2 3
+/wp-admin/admin-ajax.php 5 464 0 4
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2 4 120348 2 1
+/deleteme.chah0zrd.php 1 2235 0 0
+/deleteme.wphyj7.php 1 12520 0 0
+/deleteme.chaaoquy.php 1 2235 1 0
+/deleteme.wpanji.php 1 12524 0 0
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf 1 36038 0 0
+/deleteme.cha1o9vc.php 1 2235 1 0
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff 1 97913 0 0
+/deleteme.wpc1ce.php 1 12520 0 0
+/deleteme.chafczst.php 1 2235 1 0
+/deleteme.wpda5l.php 1 12520 0 0
+/deleteme.wps3tr.php 1 12528 0 0
+/deleteme.wpmlbp.php 1 12520 0 0
+/deleteme.chazvktj.php 1 2235 0 0
+/deleteme.wpx23k.php 1 12528 0 0
+/deleteme.cha76rvj.php 1 2235 1 0
+/deleteme.chaaiezv.php 1 2235 1 0
+/deleteme.wpijkc.php 1 12528 0 0
+/deleteme.chav8mcr.php 1 2235 1 0
+/deleteme.wp0gtj.php 1 12528 0 1
+/deleteme.wpveow.php 1 12528 0 0
+/deleteme.chao99d9.php 1 2235 1 0
+/deleteme.chaxppia.php 1 2235 1 0
+/deleteme.wphhi6.php 1 12528 0 0
+/deleteme.wp5hub.php 1 12528 0 0
+/deleteme.chae3ymp.php 1 2235 1 0
+/deleteme.chaggp2t.php 1 2235 1 0
+/deleteme.wpm5jd.php 1 12520 0 1
+/deleteme.wpcfo4.php 1 12524 0 0
+/deleteme.wp0iad.php 1 12520 0 0
+/deleteme.wpelba.php 1 12520 0 1
+/deleteme.chapibze.php 1 2235 1 0
+/deleteme.wp13l3.php 1 12520 0 0
+/deleteme.chaefz13.php 1 2235 1 0
+/deleteme.wp7jsm.php 1 12520 0 0
+/deleteme.wpp4up.php 1 12520 0 1
+/deleteme.wpn8zp.php 1 12520 0 0
+/deleteme.chavze8i.php 1 2235 0 0
+/deleteme.wpfk4u.php 1 12526 0 0
+/deleteme.chassdci.php 1 2235 1 0
+/deleteme.wpohfy.php 1 12520 0 0
+/deleteme.chac5l5x.php 1 2235 1 0
+/deleteme.wpghvs.php 1 12528 0 0
+/deleteme.wpriyb.php 1 12520 0 0
+/deleteme.wpzcmk.php 1 12520 0 0
+/deleteme.wpgrug.php 1 12520 0 0
+/deleteme.chavxvgu.php 1 2235 1 0
+/deleteme.wpzmxg.php 1 12520 0 0
+/deleteme.wpiq08.php 1 12524 0 0
+/deleteme.chapoicu.php 1 2235 1 0
+/deleteme.wpxnyo.php 1 12520 0 0
+/deleteme.chafwtw9.php 1 2235 1 0
+/deleteme.chafozyo.php 1 2235 1 0
+/deleteme.wp9exq.php 1 12520 0 0
+/deleteme.chajp5ki.php 1 2235 1 0
+/deleteme.chapsptb.php 1 2235 1 0
+/deleteme.wpkcvx.php 1 12520 0 0
+/deleteme.wpgzyj.php 1 12526 0 0
+/deleteme.cha7ykzu.php 1 2235 1 0
+/deleteme.chan325b.php 1 2235 0 0
+/deleteme.wpcazs.php 1 12520 0 0
+/deleteme.chao8mpl.php 1 2235 1 1
+/deleteme.chabcegv.php 1 2235 0 0
+/deleteme.wp0wik.php 1 12520 0 0
+/deleteme.wpfyyg.php 1 12528 0 0
+/deleteme.chatlupz.php 1 2235 1 0
+/deleteme.chaxgooz.php 1 2235 1 0
+/deleteme.wphgdc.php 1 12520 0 0
+/deleteme.wp4ws6.php 1 12520 0 0
+/deleteme.cha2j2xh.php 1 2235 1 0
+/deleteme.chaxv1ob.php 1 2235 1 0
+/deleteme.cha08xqu.php 1 2235 0 0
+/deleteme.wp4rxt.php 1 12520 0 0
+/deleteme.wpha66.php 1 12526 0 1
+/deleteme.wplvo5.php 1 12524 0 0
+/deleteme.chankd4a.php 1 2235 1 0
+/deleteme.chazaewa.php 1 2235 1 0
+/deleteme.chaw6dzz.php 1 2235 1 0
+/deleteme.chav6c0w.php 1 2235 1 0
+/deleteme.chaarbea.php 1 2235 1 0
+/deleteme.wpszbx.php 1 12528 0 0
+/deleteme.chaqwh8i.php 1 2235 1 0
+/deleteme.chasjfmu.php 1 2235 1 0
+/deleteme.chainb1c.php 1 2235 1 0
+/deleteme.chasyrjv.php 1 2235 1 0
+/deleteme.charlst9.php 1 2235 1 0
+/deleteme.chax0anj.php 1 2235 1 0
+/deleteme.wp9wis.php 1 12520 0 0
+/deleteme.wpnzrw.php 1 12528 0 0
+/deleteme.chajmbrr.php 1 2235 1 0
+END_SIDER

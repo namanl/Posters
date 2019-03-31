@@ -1,0 +1,10 @@
+--- 
+addon_domains: {}
+
+main_domain: csedvit.com
+parked_domains: []
+
+sub_domains: 
+  - blog.csedvit.com
+  - recruit.csedvit.com
+  - nl.csedvit.com

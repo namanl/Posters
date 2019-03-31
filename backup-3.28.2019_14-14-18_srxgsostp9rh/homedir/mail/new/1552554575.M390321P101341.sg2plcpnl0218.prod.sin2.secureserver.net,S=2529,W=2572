@@ -1,0 +1,43 @@
+Return-Path: <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>
+Delivered-To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Received: from sg2plcpnl0218.prod.sin2.secureserver.net
+	by sg2plcpnl0218.prod.sin2.secureserver.net with LMTP id QJZ9FU8ailzdiwEArmgpSg
+	for <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>; Thu, 14 Mar 2019 02:09:35 -0700
+Return-path: <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>
+Envelope-to: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Delivery-date: Thu, 14 Mar 2019 02:09:35 -0700
+Received: from root by sg2plcpnl0218.prod.sin2.secureserver.net with local (Exim 4.91)
+	(envelope-from <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>)
+	id 1h4MMp-000hlQ-9N
+	for srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net; Thu, 14 Mar 2019 02:09:35 -0700
+To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 5.1.1 now available
+Date: Thu, 14 Mar 2019 03:09:35 -0600
+From: noreply@sg2plcpnl0218.prod.sin2.secureserver.net
+Message-ID: <4f4d737785e128380ad0139350283afd@sg2plcpnl0218.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.43
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 5.1.1  is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://nl.csedvit.com
+
+
+The changes for this version are:
+
+This release also includes a pair of security fixes that handle how comments are filtered and then stored in the database. With a maliciously crafted comment, a WordPress post was vulnerable to cross-site scripting.
+
+Props to Simon Scannell of RIPS Technologies who discovered this flaw independent of some work that was being done by members of the core security team. Thank you to all of the reporters for privately disclosing the vulnerabilities, which gave us time to fix them before WordPress sites could be attacked.
+
+Other highlights of this release include:
+* Hosts can now offer a button for their users to update PHP.
+* The recommended PHP version used by the "Update PHP" notice can now be filtered.
+* Several minor bug fixes.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

@@ -1,0 +1,842 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eight Sec \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-23 04:45+0000\n"
+"POT-Revision-Date: Tue May 03 2016 14:41:46 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: 8degreethemes <info@8degreethemes.com>\n"
+"Language-Team: 8degreethemes <info@8degreethemes.com>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0.06\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:24
+msgid "error"
+msgstr ""
+
+#: 404.php:25
+msgid "404"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:39
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:39
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:42
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:42
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:45
+msgid "Asides"
+msgstr ""
+
+#: archive.php:48
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:51
+msgid "Images"
+msgstr ""
+
+#: archive.php:54
+msgid "Videos"
+msgstr ""
+
+#: archive.php:57
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:60
+msgid "Links"
+msgstr ""
+
+#: archive.php:63
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:66
+msgid "Audios"
+msgstr ""
+
+#: archive.php:69
+msgid "Chats"
+msgstr ""
+
+#: archive.php:72
+msgid "Archives"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:74
+msgid "WordPress Theme : "
+msgstr ""
+
+#: footer.php:74
+msgid "Free WordPress Theme"
+msgstr ""
+
+#: footer.php:74
+msgid "https://8degreethemes.com/wordpress-themes/eight-sec/"
+msgstr ""
+
+#. Name of the theme
+#: footer.php:74
+msgid "Eight Sec"
+msgstr ""
+
+#: footer.php:75
+msgid " by 8Degree Themes"
+msgstr ""
+
+#: footer.php:91
+msgid "Go to top"
+msgstr ""
+
+#: functions.php:56
+msgid "Primary"
+msgstr ""
+
+#: functions.php:176
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:211
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:213 functions.php:222 functions.php:231 functions.php:240
+#: functions.php:249
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:220
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:229
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:238
+msgid "Footer Three"
+msgstr ""
+
+#: functions.php:247
+msgid "Footer Four"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:78
+msgid "HOME"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:6 inc/admin-panel/eight-sec-customizer.php:1107
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:7 inc/admin-panel/eight-sec-customizer.php:1135
+msgid "Search"
+msgstr ""
+
+#: searchform.php:16
+msgid "Search for:"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#: tpl-home.php:13 inc/admin-panel/eight-sec-customizer.php:151
+msgid "Get Started"
+msgstr ""
+
+#: tpl-home.php:141 tpl-home.php:211 tpl-home.php:309
+#: inc/admin-panel/eight-sec-customizer.php:406
+#: inc/admin-panel/eight-sec-customizer.php:416
+#: inc/admin-panel/eight-sec-customizer.php:527
+#: inc/admin-panel/eight-sec-customizer.php:762
+msgid "View all"
+msgstr ""
+
+#: tpl-home.php:283 inc/admin-panel/eight-sec-customizer.php:625
+msgid "Hire us"
+msgstr ""
+
+#: inc/eight-sec-function.php:26
+msgid "Select page"
+msgstr ""
+
+#: inc/eight-sec-function.php:36 inc/admin-panel/eight-sec-customizer.php:140
+#: inc/admin-panel/eight-sec-customizer.php:395
+#: inc/admin-panel/eight-sec-customizer.php:515
+#: inc/admin-panel/eight-sec-customizer.php:751
+#: inc/admin-panel/eight-sec-customizer.php:867
+msgid "Select category"
+msgstr ""
+
+#: inc/eight-sec-function.php:45
+msgid "ABOUT US"
+msgstr ""
+
+#: inc/eight-sec-function.php:45
+msgid "PORTFOLIO"
+msgstr ""
+
+#: inc/eight-sec-function.php:45
+msgid "TEAM"
+msgstr ""
+
+#: inc/eight-sec-function.php:45 inc/admin-panel/eight-sec-customizer.php:584
+msgid "CTA"
+msgstr ""
+
+#: inc/eight-sec-function.php:45
+msgid "BLOG"
+msgstr ""
+
+#: inc/eight-sec-function.php:45
+msgid "TESTIMONIAL"
+msgstr ""
+
+#: inc/eight-sec-function.php:45
+msgid "CONTACT US"
+msgstr ""
+
+#: inc/eight-sec-function.php:69
+msgid "Home"
+msgstr ""
+
+#: inc/eight-sec-function.php:165
+msgid " Page"
+msgstr ""
+
+#: inc/eight-sec-function.php:195 inc/eight-sec-function.php:211
+#: inc/admin-panel/eight-sec-customizer.php:1232
+msgid "Facebook"
+msgstr ""
+
+#: inc/eight-sec-function.php:199 inc/admin-panel/eight-sec-customizer.php:1251
+msgid "Twitter"
+msgstr ""
+
+#: inc/eight-sec-function.php:203 inc/admin-panel/eight-sec-customizer.php:1270
+msgid "Google Plus"
+msgstr ""
+
+#: inc/eight-sec-function.php:207
+msgid "Youtube"
+msgstr ""
+
+#: inc/eight-sec-function.php:215 inc/admin-panel/eight-sec-customizer.php:1327
+msgid "Linkedin"
+msgstr ""
+
+#: inc/eight-sec-function.php:219
+msgid "Flickr"
+msgstr ""
+
+#: inc/eight-sec-function.php:223 inc/admin-panel/eight-sec-customizer.php:1366
+msgid "Vimeo"
+msgstr ""
+
+#: inc/eight-sec-function.php:227 inc/admin-panel/eight-sec-customizer.php:1404
+msgid "Instagram"
+msgstr ""
+
+#: inc/eight-sec-function.php:231
+msgid "Tumblr"
+msgstr ""
+
+#: inc/eight-sec-function.php:235
+msgid "Delicious"
+msgstr ""
+
+#: inc/eight-sec-function.php:239
+msgid "Rss"
+msgstr ""
+
+#: inc/eight-sec-function.php:243
+msgid "Github"
+msgstr ""
+
+#: inc/eight-sec-function.php:247 inc/admin-panel/eight-sec-customizer.php:1385
+msgid "Stumbleupon"
+msgstr ""
+
+#: inc/eight-sec-function.php:251
+msgid "Skype:"
+msgstr ""
+
+#: inc/eight-sec-function.php:251 inc/admin-panel/eight-sec-customizer.php:1480
+msgid "Skype"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72 template-parts/content-page.php:39
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/archive-portfolio.php:3 template-parts/archive-team.php:2
+#: template-parts/content.php:10
+msgid "Read More"
+msgstr ""
+
+#: template-parts/archive-portfolio.php:17
+msgid "Show all"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:18
+#: template-parts/content.php:77
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:72
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:10
+msgid "Default Setting"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:25
+msgid "Web Layout"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:42
+#: inc/admin-panel/eight-sec-customizer.php:116
+#: inc/admin-panel/eight-sec-customizer.php:235
+#: inc/admin-panel/eight-sec-customizer.php:331
+#: inc/admin-panel/eight-sec-customizer.php:450
+#: inc/admin-panel/eight-sec-customizer.php:569
+#: inc/admin-panel/eight-sec-customizer.php:687
+#: inc/admin-panel/eight-sec-customizer.php:803
+#: inc/admin-panel/eight-sec-customizer.php:901
+msgid "Do you want to enable this section?"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:48
+#: inc/admin-panel/eight-sec-sanitize.php:56
+msgid "Fullwidth Layout"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:49
+#: inc/admin-panel/eight-sec-sanitize.php:57
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:56
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:74
+msgid "Footer Copyright Area Text"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:75
+msgid "Enter text or Html to show in the footer."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:87
+msgid "Homepage Settings of the theme"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:89
+msgid "Homepage Settings"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:98
+msgid "Slider Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:99
+msgid "Settings of the Slider section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:122
+#: inc/admin-panel/eight-sec-customizer.php:184
+#: inc/admin-panel/eight-sec-customizer.php:207
+#: inc/admin-panel/eight-sec-customizer.php:241
+#: inc/admin-panel/eight-sec-customizer.php:337
+#: inc/admin-panel/eight-sec-customizer.php:456
+#: inc/admin-panel/eight-sec-customizer.php:575
+#: inc/admin-panel/eight-sec-customizer.php:693
+#: inc/admin-panel/eight-sec-customizer.php:809
+#: inc/admin-panel/eight-sec-customizer.php:907
+#: inc/admin-panel/eight-sec-sanitize.php:83
+msgid "Yes"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:123
+#: inc/admin-panel/eight-sec-customizer.php:185
+#: inc/admin-panel/eight-sec-customizer.php:208
+#: inc/admin-panel/eight-sec-customizer.php:242
+#: inc/admin-panel/eight-sec-customizer.php:338
+#: inc/admin-panel/eight-sec-customizer.php:457
+#: inc/admin-panel/eight-sec-customizer.php:576
+#: inc/admin-panel/eight-sec-customizer.php:694
+#: inc/admin-panel/eight-sec-customizer.php:810
+#: inc/admin-panel/eight-sec-customizer.php:908
+#: inc/admin-panel/eight-sec-sanitize.php:84
+msgid "No"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:160
+#: inc/admin-panel/eight-sec-customizer.php:1019
+msgid "Read more text"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:178
+msgid "Show control"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:201
+msgid "Show pager"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:217
+msgid "About Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:218
+msgid "Settings of the About Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:250
+msgid "About us"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:260
+#: inc/admin-panel/eight-sec-customizer.php:356
+#: inc/admin-panel/eight-sec-customizer.php:475
+#: inc/admin-panel/eight-sec-customizer.php:594
+#: inc/admin-panel/eight-sec-customizer.php:712
+#: inc/admin-panel/eight-sec-customizer.php:828
+#: inc/admin-panel/eight-sec-customizer.php:926
+msgid "Menu title text"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:279
+#: inc/admin-panel/eight-sec-customizer.php:375
+#: inc/admin-panel/eight-sec-customizer.php:494
+#: inc/admin-panel/eight-sec-customizer.php:613
+#: inc/admin-panel/eight-sec-customizer.php:731
+#: inc/admin-panel/eight-sec-customizer.php:847
+#: inc/admin-panel/eight-sec-customizer.php:945
+msgid "Select Page"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:280
+msgid "Choose page to display section title and description in about section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:299
+msgid "Select Category"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:313
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:314
+msgid "Settings of the Portfolio Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:346
+msgid "Portfolio"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:376
+msgid ""
+"Choose page to display section title and description in portfolio section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:432
+msgid "Blog Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:433
+msgid "Settings of the Blog Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:465
+msgid "Blog"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:495
+msgid "Choose page to display section title and description in blog section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:537
+msgid "View all blogs"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:551
+msgid "Call to Action Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:552
+msgid "Settings of the Call to Action(CTA) Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:614
+msgid "Choose page to display section title and description in cta section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:635
+msgid "Button text"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:654
+msgid "Button link"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:669
+msgid "Team Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:670
+msgid "Settings of the Team Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:702
+msgid "Team"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:732
+msgid "Choose page to display section title and description in team section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:772
+msgid "View all team"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:785
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:786
+msgid "Settings of the Testimonial Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:818
+msgid "Testimonial"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:848
+msgid ""
+"Choose page to display section title and description in testimonial section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:883
+msgid "Contact Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:884
+msgid "Settings of the Contact Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:916
+msgid "Contact us"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:946
+msgid ""
+"Choose page to display section title and description in contact section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:964
+msgid "Enter Shortcode"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:965
+msgid ""
+"Enter shortcode of Ultimate Form Builder Plugin or any other contact form "
+"plugin."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:977
+msgid "Blog/Archive Setting"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:978
+msgid "Settings of Blog/Archive"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:994
+msgid "Choose Blog/Archive Layout"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1000
+#: inc/admin-panel/eight-sec-sanitize.php:69
+msgid "Blog Image Large"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1001
+#: inc/admin-panel/eight-sec-sanitize.php:70
+msgid "Blog Image Medium"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1002
+#: inc/admin-panel/eight-sec-sanitize.php:71
+msgid "Blog Image Alternate Medium"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1010
+msgid "Read more"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1033
+msgid "Header Settings of the theme"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1035
+msgid "Header Settings"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1041
+msgid "Menu Setting"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1059
+msgid "Display eight-sec menu"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1060
+msgid "(Check to show eight section in the menu)"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1072
+msgid "Show Search in Header"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1088
+msgid "Check to Show Search in Header"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1099
+msgid "Search Placeholder Text"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1127
+msgid "Search Button Text"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1155
+msgid "Logo Alignment"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1173
+msgid "Choose the layout that you want"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1177
+#: inc/admin-panel/eight-sec-sanitize.php:42
+msgid "Left"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1178
+#: inc/admin-panel/eight-sec-sanitize.php:43
+msgid "Center"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1179
+#: inc/admin-panel/eight-sec-sanitize.php:44
+msgid "Right"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1191
+msgid "Social Setting"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1209
+msgid "Enable Disable Social Icons in Footer"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1213
+#: inc/admin-panel/eight-sec-sanitize.php:94
+msgid "Enable"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1214
+#: inc/admin-panel/eight-sec-sanitize.php:95
+msgid "Disable"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1289
+msgid "YouTube"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1308
+msgid "Pinterest"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1346
+msgid "Flicker"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1423
+msgid "Sound Cloud"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1442
+msgid "Git Hub"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1461
+msgid "Tumbler"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1499
+msgid "RSS"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Eight Sec theme is a free wordpress one page theme with eight sections. It "
+"is ideal for business, corporate, portfolio, blog, agency, freelancer and "
+"any other modern and creative website. It has fullwidth and boxed layout and "
+"is fully responsive. Demo: http://8degreethemes.com/demo/eight-sec Support "
+"forum: support@8degreethemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "http://8degreethemes.com/wordpress-themes/eight-sec/"
+msgstr ""
+
+#. Author of the theme
+msgid "8DegreeThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://8degreethemes.com"
+msgstr ""

@@ -1,0 +1,1044 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201902 will be lost/reset.
+# Last config file used to build this data file was /home/srxgsostp9rh/tmp/awstats/awstats.csedvit.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2694                
+POS_VISITOR 21959               
+POS_DAY 31884               
+POS_DOMAIN 3554                
+POS_LOGIN 4366                
+POS_ROBOT 4521                
+POS_WORMS 5405                
+POS_EMAILSENDER 5536                
+POS_EMAILRECEIVER 5679                
+POS_SESSION 32686               
+POS_SIDER 32899               
+POS_FILETYPES 5814                
+POS_DOWNLOADS 6151                
+POS_OS 6218                
+POS_BROWSER 6488                
+POS_SCREENSIZE 8017                
+POS_UNKNOWNREFERER 8091                
+POS_UNKNOWNREFERERBROWSER 8735                
+POS_ORIGIN 9185                
+POS_SEREFERRALS 9330                
+POS_PAGEREFS 9508                
+POS_SEARCHWORDS 10026               
+POS_KEYWORDS 10178               
+POS_MISC 2357                
+POS_ERRORS 10237               
+POS_CLUSTER 4222                
+POS_SIDER_404 10405               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190301001820 184 43821 8871561830310
+FirstTime 20190201000134
+LastTime 20190228235425
+LastUpdate 20190301053529 184 0 183 0 0
+TotalVisits 625                 
+TotalUnique 242                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 257                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+AddToFavourites 0 44 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 63 245 2823627 45 118 1194403
+1 70 151 1453633 27 75 562749
+2 103 488 9110959 34 100 890481
+3 99 497 8477907 29 37 383987
+4 59 265 4423238 28 43 411966
+5 54 154 2282587 20 28 193480
+6 58 278 5857934 33 41 584775
+7 83 283 4156714 22 31 309325
+8 83 330 3966196 42 78 613237
+9 116 478 9811395 35 58 599215
+10 63 291 5960767 27 33 505360
+11 162 783 15390456 27 85 789292
+12 110 579 12485277 49 120 1232542
+13 63 254 4113304 47 66 598454
+14 32 70 434765 22 31 258760
+15 38 40 168513 27 41 360555
+16 39 83 1096878 35 44 447467
+17 34 34 92142 66 77 464673
+18 39 209 2724324 29 40 211087
+19 32 91 1189833 30 55 490755
+20 33 96 1634017 18 25 320129
+21 48 228 3062358 60 71 582214
+22 71 175 2919062 18 53 531015
+23 40 44 136725 34 72 973576
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 44
+us 579 3842 74916039
+sg 544 544 749063
+in 162 1174 21796149
+ru 69 141 1319116
+hu 38 38 378165
+ca 38 74 1284189
+gb 22 22 266265
+ua 21 21 91855
+cn 14 140 1846367
+nl 13 13 103967
+md 11 11 52306
+fr 10 10 36587
+de 6 6 31249
+id 6 6 10379
+zz 4 4 50478
+tr 4 4 4740
+ro 3 3 6824
+bg 3 3 60886
+lt 3 3 79596
+ie 3 48 571996
+by 2 2 2750
+nz 2 2 5639
+pl 2 2 2370
+cz 2 2 2750
+it 2 2 5639
+ph 2 2 2370
+ch 1 1 2718
+se 2 2 11169
+jp 2 2 2370
+hr 2 2 2370
+ma 1 1 1185
+at 1 1 2921
+dk 2 2 5639
+lv 1 1 9985
+ng 1 1 1185
+vn 2 2 2370
+pk 2 2 2370
+kn 2 2 5639
+th 1 1 1185
+ba 2 2 2370
+eg 1 1 1185
+br 1 1 1185
+pt 2 2 37777
+za 1 1 1185
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+Googlebot/ 207 1236384 20190228235312 30
+Baiduspider/ 104 800557 20190228190132 1
+bingbot/ 72 552195 20190227025018 4
+YandexBot/ 62 120045 20190227125046 35
+PhantomJS 42 413051 20190201000250 0
+SemrushBot/ 28 118251 20190228053817 11
+Uptimebot/ 26 20110 20190227165636 2
+MJ12bot/ 25 367796 20190225014920 7
+BLEXBot/ 13 897 20190225041243 13
+no_user_agent 12 554298 20190226230249 0
+(firefox/)([0-9]\.|[0-1][0]\.) 11 759 20190224132909 11
+facebookexternalhit/ 7 176923 20190226230248 0
+unknown 7 477 20190224132211 7
+bot[\s_+:,\.\;\/\\-] 4 167276 20190222225711 0
+TelegramBot 3 42216 20190221093323 0
+bingpreview 3 19951 20190220025744 0
+DomainSONOCrawler/ 2 19969 20190221173705 0
+Python\-urllib/ 1 41868 20190225000509 0
+curl 1 2718 20190227184600 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+woff2 143 7818869 0 0
+eot 6 271254 0 0
+Unknown 10 1950 0 0
+css 1364 8795884 0 0
+js 1564 18233876 0 0
+svg 10 13784 0 0
+php 962 6342872 0 0
+jpeg 6 112350 0 0
+html 460 6556618 0 0
+jpg 396 10468897 0 0
+woff 6 554362 0 0
+ttf 5 304908 0 0
+gif 13 82002 0 0
+png 1201 44214847 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 0 1 69
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linux 361 105
+macosx10 4 4
+win8 2 2
+ios_iphone 374 25
+winxp 6 6
+win7 231 114
+winlong 43 43
+win10 3202 597
+macosx12 14 14
+win8.1 1 1
+unix 1 0
+linuxandroid 976 90
+macosx11 3 3
+Unknown 578 531
+macosx 351 57
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 72
+chrome42.0.2311.152 1 1
+chrome67.0.3396.79 2 2
+chrome45.0.2454.94 2 2
+firefox24.0 1 1
+chrome68.0.3440.91 142 10
+chrome64.0.3282.137 119 11
+edge15 2 2
+chrome69.0.3494.0 45 3
+mozilla 14 14
+chrome71.0.3578.99 344 37
+opera54.0.2952.64 4 4
+chrome71.0.3578.127 1 0
+chrome5.0.375.99 1 1
+chrome64.0.3282.186 1 1
+safari11.0 135 9
+chrome69.0.3497.92 2 2
+chrome67.0.3396.99 2 2
+chrome67.0.3396.103 1 1
+chrome67.0.3396.62 64 5
+chrome69.0.3497.100 10 10
+chrome71.0.3578.98 740 92
+chrome70.0.3538.77 114 15
+firefox28.0 1 1
+edge17 1 1
+chrome71.0.3563.0 20 1
+chrome72.0.3626.76 43 3
+chrome66.0.3359.181 2 2
+chrome72.0.3626.105 162 12
+Unknown 518 514
+msie9.0 48 3
+msie6.0 5 5
+firefox33.0 3 3
+chrome45.0.2454.93 2 2
+opera54.0.2952.71 1 1
+msie10.0 80 8
+safari12.0 241 18
+firefox40.1 2 2
+firefox36.0 2 2
+firefox65.0 315 28
+chrome38.0.2125.101 38 2
+edge13 6 6
+chrome72.0.3626.119 145 11
+firefox35.0 1 1
+chrome41.0.2272.89 17 17
+msie7.0 2 0
+firefox62.0 79 79
+safari11.0.3 1 1
+chrome31.0.1650.57 4 4
+chrome49.0.2623.75 2 1
+opera53.0.2907.68 2 2
+firefox61.0 44 44
+firefox59.0 3 3
+chrome53.0.2785.143 6 6
+firefox34.0 43 43
+chrome69.0.3497.81 12 12
+safari6.0.5 46 3
+chrome70.0.3538.110 1 1
+firefox30.0 3 3
+safari8.0.3 1 1
+chrome68.0.3440.106 25 25
+chrome65.0.3325.181 6 6
+safari11.1.2 3 3
+edge16 1 1
+firefox64.0 10 10
+chrome67.0.3396.87 2 2
+chrome41.0.2272.118 6 6
+chrome61.0.3163.100 14 14
+firefox47.0 3 3
+chrome72.0.3626.109 1109 165
+chrome72.0.3626.96 1276 243
+opera55.0.2994.44 5 5
+firefox17.0 38 38
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Installatron_Plugin/9.1.43 20190228152030
+Go-http-client/1.1 20190228011153
+Scrapy/1.5.0_(_https://scrapy.org) 20190202172114
+WordPress/4.9.8;_http://csedvit.com 20190228230503
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190224132224
+Mozilla/5.0_AppleWebKit/536.30.1_(KHTML,_like_Gecko)_Version/6.0.5_Safari/536.30.1_Installatron_(Mimicking_WebKit) 20190226022745
+Installatron_Plugin/9.1.42 20190227074135
+Scrapy/1.5.1_(_https://scrapy.org) 20190225072852
+python-requests/2.21.0 20190204064720
+WhatsApp/2.18.380_A 20190211080937
+cortex/1.0 20190218183515
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+Installatron_Plugin/9.1.43 20190228152030
+Scrapy/1.5.0_(_https://scrapy.org) 20190202172114
+Go-http-client/1.1 20190228011153
+WordPress/4.9.8;_http://csedvit.com 20190228230503
+python-requests/2.21.0 20190204064720
+Installatron_Plugin/9.1.42 20190227074135
+Scrapy/1.5.1_(_https://scrapy.org) 20190225072852
+WhatsApp/2.18.380_A 20190211080937
+cortex/1.0 20190218183515
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 390 435
+From1 5 5
+From2 13 22
+From3 52 100
+From4 1132 5585
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+yandexru 2 2
+www_google_com 11 20
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+https://brandnewblogs.com/site-browser/ 16 16
+https://brandnewblogs.com/domaininfo/csedvit.com 13 13
+http://pizza-imperia.com 6 6
+http://burger-imperia.com 3 3
+http://hundejo.com 3 3
+https://www.facebook.com 3 3
+http://burger-tycoon.com 3 3
+https://l.instagram.com 2 2
+http://pizza-tycoon.com 1 1
+http://127.0.0.1:5500/old_about_us.html 1 49
+https://l.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+301 180 708
+206 39 344960
+500 6 4792
+503 2 9985
+404 497 8493146
+400 6 105
+405 1 60
+302 17 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 217
+/wp-content/plugins/wp_module/wp_cron.php 1 http://csedvit.com/wp-content/plugins/wp_module/wp_cron.php
+/wp-ajax-hook.php 2 -
+/wp-content/uploads/2019/02/settings_auto.php 1 -
+/wp-content/uploads/2017/04/services-2-300x199.jpg 6 http://csedvit.com/wp-admin/upload.php
+/wp-content/plugins/vwcleanerplugin/bump.php 1 http://csedvit.com/wp-content/plugins/vwcleanerplugin/bump.php
+/installer.php 2 -
+/phpmyadmin/ 1 -
+/wp-content/uploads/2018/11/w.php 2 http://site.ru
+/admin/login.php 1 -
+/Mhbgf.php 4 http://site.ru
+/dhon.php 2 http://site.ru
+/user/register 1 -
+/templates/system/css/system.css 1 -
+/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/wp-content/uploads/2018/02/ask.php 1 http://site.ru
+/wp-admin/wp-caches.php 3 http://site.ru
+/.well-known/wp-bk-report.php.suspected 2 -
+/wp-includes/js/crop/mini.php 2 http://site.ru
+/2013/11/logo-design-challenge.html 1 -
+/wp-content/plugins/unicode/gs.php 2 http://site.ru
+/ 1 http://csedvit.com///
+/wp-content/plugins/simple-social-buttons/assets/css/front.css 2 -
+/wp-admin/css/colors/sunrise/class.php 1 http://site.ru
+/wp-content/uploads/2017/04/gallery-8-300x200.jpg 6 http://csedvit.com/wp-admin/upload.php
+/wp-content/plugins/responsive-lightbox/index2.php 2 http://site.ru
+/utility.php 2 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/wp-content/uploads/2017/04/home-1-300x200.jpg 5 http://csedvit.com/wp-admin/upload.php
+/wp-includes/js/crop/ask.php 1 http://site.ru
+/wp-includes/theme-compat/images.php 2 http://site.ru
+/js.php 1 http://site.ru
+/roots.php 2 http://site.ru
+/assets/images/blackhat.php 2 http://site.ru
+/wp-upload-class.php 2 -
+/aul.php 2 http://site.ru
+/.well-known/wp-bk-report.php 2 -
+/wp-logout.php.suspected 2 http://site.ru
+/wp-includes/js/crop/aul.php 1 http://site.ru
+/s.php 1 http://site.ru
+/wordpress/wp-admin/install.php 1 -
+/wp-content/plugins/ext/i.php 1 http://csedvit.com/wp-content/plugins/ext/i.php
+/wp-content/uploads/2019/01/wp-console.php 1 http://site.ru
+/wp-includes/wp-tomar.php 1 http://site.ru
+/content-post.php.suspected 1 http://site.ru
+/wp-content/uploads/2018/01/aul.php 2 http://site.ru
+/wp-content/uploads/2017/04/portfolio-1a-300x199.jpg 6 http://csedvit.com/wp-admin/upload.php
+/old/wp-page.php 1 http://site.ru
+/wp-content/uploads/2017/04/portfolio-2c-300x146.jpg 6 http://csedvit.com/wp-admin/upload.php
+/master.php 2 http://site.ru
+/wp-includes/SimplePie/Decode/simple.php5 2 http://site.ru
+/test.php 3 http://site.ru
+/.well-known/wp-build-report.php.suspected 2 -
+/wp-content/wp-caches.php 2 http://site.ru
+/2013/11/t-shirt-design-challenge.html 1 -
+/wp-content/plugins/hd-webplayer/playlist.php 1 -
+/wp-includes/customize/newsleter.php 2 http://site.ru
+/wp-content/themes/photozoom/customizer/sections/Meuhy.php.suspected 2 http://site.ru
+/wp-content/themes/twentyten/404.php 2 http://site.ru
+/wp/wp-admin/install.php 1 -
+/wp-content/plugins/downloads-manager/img/unlock.gif 1 -
+/wp-content/uploads/2017/04/about-us-headshot-2-300x300.jpg 5 http://csedvit.com/wp-admin/upload.php
+/wp-content/themes/twentyfifteen/genericons/wp-console.php 2 http://site.ru
+/wp-content/uploads/2017/04/gallery-6-300x200.jpg 6 http://csedvit.com/wp-admin/upload.php
+/wp-content/uploads/2017/04/about-us-headshot-3-300x300.jpg 5 http://csedvit.com/wp-admin/upload.php
+/vz.php 1 http://site.ru
+/wp-content/uploads/2017/04/gallery-7-300x200.jpg 6 http://csedvit.com/wp-admin/upload.php
+/bl.php 1 http://site.ru
+/wp-content/plugins/akismet/views/simple.php5 1 http://site.ru
+/wp-content/plugins/background-image-cropper/wp-console.php 1 http://site.ru
+/wp-includes/js/crop/wawa.php 2 http://site.ru
+/.well-known/wp-craft-report.php.suspected 2 -
+/wp-includes/js/crop/query.js.php 1 -
+/wp-form.php 1 http://site.ru
+/cms/wp-admin/ 2 -
+/wp-content/uploads/evex.php 1 http://site.ru
+/wp-content/uploads/2018/12/content-post.php 2 http://site.ru
+/wp-includes/Text/Diff/Engine/theme.php 1 http://site.ru
+/bk/wp-admin/install.php 1 -
+/tags.php 1 http://site.ru
+/wp-content/plugins/apikey/apikey.php 1 http://csedvit.com/wp-content/plugins/apikey/apikey.php
+/wp-content/plugins/css-ready-sel/r.php 1 http://site.ru
+/wp-content/uploads/2017/04/portfolio-2d-300x268.jpg 6 http://csedvit.com/wp-admin/upload.php
+/config.php 1 http://site.ru
+/info.php 2 http://site.ru
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 1 -
+/wp-content/plugins/background-image-cropper/content-post.php.suspected 1 http://site.ru
+/blog/wp-login.php 45 -
+/wp-includes/SimplePie/Content/Type/wp-console.php 1 http://site.ru
+/.well-known/wp-craft-report.php 4 -
+/meta.php 1 http://site.ru
+/mini.php 1 http://site.ru
+/libraries/joomla/template/mark.php 1 http://site.ru
+/license.php 2 -
+/wp-content/uploads/2017/04/gallery-5-300x200.jpg 6 http://csedvit.com/wp-admin/upload.php
+/wp-content/uploads/2017/04/gallery-4-200x300.jpg 6 http://csedvit.com/wp-admin/upload.php
+/wp-content/plugins/index2.php 1 http://site.ru
+/searchreplacedb2.php 2 -
+/default.php 2 http://site.ru
+/wp-content/uploads/2017/04/portfolio-2a-300x113.jpg 6 http://csedvit.com/wp-admin/upload.php
+/jm-ajax/upload_file/ 1 -
+/backup/wp-admin/install.php 1 -
+/wp-content/plugins/totaldonations/css/extra.css 1 http://csedvit.com/wp-content/plugins/totaldonations/css/extra.css
+/wp-content/plugins/lz2/dot.php 1 http://site.ru
+/wp-admin/css/colors/blue/theme.php 1 http://site.ru
+/installer-backup.php 2 -
+/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/wp-content/plugins/preferred-languages/system.php 1 http://site.ru
+/wp-blogs.php 1 http://site.ru
+/wp-includes/wp-caches.php 2 http://site.ru
+/wp-content/plugins/ungallery/source_vuln.php 1 -
+/wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php 1 -
+/wp-content/uploads/2017/04/about-us-headshot-1-300x300.jpg 6 http://csedvit.com/wp-admin/upload.php
+/wp-content/uploads/2017/04/gallery-2-300x200.jpg 6 http://csedvit.com/wp-admin/upload.php
+/wp-content/plugins/category-page-icons/css/menu.css 1 -
+/wp-content/themes/photozoom/customizer/sections/Mhbgf.php 2 http://site.ru
+/wp-content/plugins/cronblocks/Marvins.php 1 http://site.ru
+/wp-content/plugins/userpro/scripts/scripts.min.js 2 -
+/wp-includes/js/tinymce/plugins/image/newsleter.php 2 http://site.ru
+/wp-admin/includes/headroll.php 3 http://site.ru
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 2 -
+/wp-admin/css/colors/coffee/theme.php 1 http://site.ru
+/wp-includes/js/query.js.php 1 -
+/wp-content/plugins/easyrotator-for-wordpress/indox.php 2 http://site.ru
+/.well-known/wp-build-report.php 2 -
+/wp-content/vz.php 1 http://site.ru
+/wp-content/bacot.php 1 http://site.ru
+/theme.php 2 http://site.ru
+/wp-content/uploads/2017/04/about-us-1-300x248.jpg 5 http://csedvit.com/wp-admin/upload.php
+/wp-content/plugins/barclaycart/uploadify/settings_auto.php 1 -
+/options.php 2 http://site.ru
+/images/ 1 -
+/2013/09/what-does-it-take-to-be-entrepreneur.html 1 -
+/wp-content/plugins/barclaycart/uploadify/uploadify.php 1 -
+/wp-content/plugins/background-image-cropper/blackhat.php 1 http://site.ru
+/wp-content/plugins/xichang/x.php 1 http://csedvit.com/wp-content/plugins/xichang/x.php
+/_.php 2 http://site.ru
+/assets/images/wp-console.php 2 http://site.ru
+/wp-includes/js/swfupload/query.js.php 1 -
+/wp-content/plugins/background-image-cropper/content-post.php 2 http://site.ru
+/wp-admin/maint/Mhbgf.php 2 http://site.ru
+/wp-content/plugins/wp-seo/idx.php 1 http://site.ru
+/wp-includes/Text/Diff/Engine/class.php 2 http://site.ru
+/wp-admin/images/Mhbgf.php 2 http://site.ru
+/a.php 1 http://site.ru
+/conf.ini.php 1 http://site.ru
+/wp-content/plugins/html404/idx.php 1 http://site.ru
+/wp-content/uploads/2018/11/content-post.php.suspected 1 http://site.ru
+/wp-content/plugins/simple/zo.php 2 http://site.ru
+/Install/InstallWizard.aspx 1 -
+/wp-content/plugins/wp-zipy/t.php 2 http://site.ru
+/wp-content/uploads/2017/04/gallery-3-300x200.jpg 6 http://csedvit.com/wp-admin/upload.php
+/wp-includes/js/crop/bacot.php 1 http://site.ru
+/wp-content/plugins/html404/xccc.php 1 http://site.ru
+/wp-content/plugins/viral-optins/api/uploader/file-uploader.php 1 -
+/temp/wp-admin/ 2 -
+/feeds/posts/default 22 -
+/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/2013/11/what-idea-sirji.html 1 -
+/wp-content/plugins/cronblocks/wj.php 2 http://site.ru
+/wp-content/uploads/2019/01/content-post.php 2 http://site.ru
+/wp-content/plugins/wp-zipy/yusa.php 3 http://site.ru
+/wp-content/plugins/background-image-cropper/newsleter.php 2 http://site.ru
+/wp-cofigs.php.suspected 1 http://site.ru
+/wp-content/plugins/totaldonations/css/mg_progress-bar.css 2 -
+/administrator/ 2 http://csedvit.com/administrator/
+/wp-content/uploads/2017/04/home-4-225x300.jpg 5 http://csedvit.com/wp-admin/upload.php
+/cache_.php 2 -
+/wp-content/uploads/2017/04/portfolio-2b-300x140.jpg 6 http://csedvit.com/wp-admin/upload.php
+/wp-content/newsleter.php 2 http://site.ru
+/new/wp-admin/install.php 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/settings_auto.php 1 -
+/wp-post.php 2 http://site.ru
+/wp-content/themes/fincorp/about3.php 1 http://site.ru
+/header-cache.php 2 -
+/wp-content/plugins/xaisyndicate/idx.php 1 http://site.ru
+/wp-xml.php 2 -
+/wp-cofigs.php 1 http://site.ru
+/wp-includes/upgrade/theme-compat/popup-pomo.php 2 http://site.ru
+/wp-content/uploads/2017/04/portfolio-1b-300x169.jpg 6 http://csedvit.com/wp-admin/upload.php
+/wp-content/plugins/cronblocks/indox.php 1 http://site.ru
+/wp-404.php 2 -
+/wp-content/uploads/2017/04/services-1-300x195.jpg 6 http://csedvit.com/wp-admin/upload.php
+/newsleter.php 2 -
+/bacot.php 1 http://site.ru
+/Meuhy.php 3 http://site.ru
+/wp-includes/pomo/mini.php 1 http://site.ru
+/wp-admin/options-select.php 2 http://site.ru
+/wp-content/plugins/css-ready-sel/file.php 2 http://site.ru
+/wp-content/uploads/2017/04/home-2-300x195.jpg 5 http://csedvit.com/wp-admin/upload.php
+/wp-content/themes/photozoom/customizer/sections/Meuhy.php 1 http://site.ru
+/new_license.php 2 -
+/wp-content/themes/logs.php 1 http://site.ru
+/wp-admin/user/Mhbgf.php 1 http://site.ru
+/wp-content/uploads/2017/04/portfolio-1c-300x245.jpg 6 http://csedvit.com/wp-admin/upload.php
+/ads.txt 2 -
+/wp-content/uploads/2017/04/gallery-1-300x200.jpg 6 http://csedvit.com/wp-admin/upload.php
+/wp-includes/js/tinymce/query.js.php 1 -
+/admin/images/cal_date_over.gif 1 -
+/wp-content/plugins/css-ready-selectors/file.php.suspected 2 http://site.ru
+/wp-content/plugins/css-ready-selectors/file.php 1 http://site.ru
+/wp-content/plugins/wp-mobile-detector/resize.php 1 -
+/404.php.suspected 4 http://site.ru
+/Jwlsjd_baaqifg.php 1 csedvit.com
+/wp-content/plugins/advanced-contact-pro/permission.php 2 http://site.ru
+/404.php 1 http://site.ru
+/wp-back.php 2 http://site.ru
+/wp-content/uploads/2017/04/home-3-300x200.jpg 5 http://csedvit.com/wp-admin/upload.php
+/wp-content/uploads/2018/09/wp-console.php 1 http://site.ru
+/content-post.php 2 -
+/newsleter.php.suspected 1 http://site.ru
+/.git/HEAD 2 -
+/wp-content/uploads/2017/12/aul.php 1 http://site.ru
+/wp-admin/bacot.php 1 http://site.ru
+/wp-includes/fonts/Mhbgf.php.suspected 2 http://site.ru
+/wp-content/plugins/Aviliate/404.php 3 http://site.ru
+/.ftp.php 1 http://site.ru
+/wp-content/plugins/hello.php 1 http://site.ru
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 257
+43.255.154.29 544 544 749063 20190228230503
+136.233.9.100 156 1047 21607436 20190224212735
+136.233.9.97 97 489 11229670 20190215074244
+136.233.9.95 44 349 6967519 20190226050046
+136.233.9.104 40 264 5892651 20190226105729
+42.111.139.55 36 330 9115420 20190212130210
+42.111.156.75 32 36 1046736 20190212221841
+136.233.9.103 30 158 2904197 20190210110549
+136.233.9.101 16 146 3127404 20190223101136
+42.111.152.59 14 14 67667 20190212125216
+64.233.173.182 14 127 2078711 20190220140314
+94.21.145.177 14 14 147340 20190211155336
+64.233.173.180 13 136 2070796 20190212090923
+52.53.201.78 11 11 109835 20190227221113
+198.27.68.223 9 9 61859 20190219085652
+178.164.146.45 9 9 89861 20190222063358
+157.51.119.66 9 93 2445458 20190211090131
+157.50.209.125 8 55 1716065 20190210122216
+42.111.153.4 8 8 82530 20190211094529
+64.71.78.13 8 8 9989 20190201040034
+157.46.32.243 8 79 1231073 20190209213854
+142.4.218.236 8 8 393439 20190224132228
+158.69.225.34 8 8 393439 20190203165408
+157.50.247.134 8 115 2800354 20190221092757
+92.249.191.167 7 7 69891 20190225044732
+185.130.184.232 2 2 37777 20190227054726
+195.206.105.217 1 1 2921 20190225110222
+88.147.233.11 2 2 2750 20190228230505
+93.170.175.197 2 2 2750 20190228095947
+157.50.52.38 1 1 9985 20190212090404
+105.156.70.13 1 1 1185 20190204070339
+206.180.165.147 1 1 9986 20190220112716
+207.47.208.190 1 1 9986 20190202172114
+46.166.139.35 3 3 15623 20190223095124
+192.42.116.16 1 1 2718 20190220132458
+104.244.78.163 1 1 2718 20190219015516
+10.39.129.39 1 1 9983 20190209161827
+106.203.59.0 2 46 561255 20190212111646
+51.15.53.83 1 1 9984 20190212161938
+109.73.225.87 1 1 55247 20190226045659
+185.104.184.122 2 2 37777 20190227054318
+5.189.146.133 1 1 2718 20190218052127
+64.71.72.33 1 1 1185 20190201163315
+112.207.54.86 2 2 2370 20190216170306
+64.233.173.178 7 128 2203455 20190220140309
+176.192.23.86 2 2 2750 20190228220223
+157.50.75.148 0 2 30531 
+198.98.58.135 1 1 2718 20190225110146
+52.35.80.16 1 1 9985 20190228011153
+180.163.220.4 3 37 374826 20190208134109
+185.253.96.204 3 3 79596 20190201020322
+178.234.167.100 2 2 2756 20190228221519
+193.106.40.188 2 2 2750 20190228232429
+185.17.149.147 2 2 37777 20190228002424
+31.13.115.9 0 8 150270 
+213.5.71.231 6 6 70006 20190209122920
+173.252.95.25 1 1 9986 20190228025436
+42.111.7.177 5 55 756213 20190207121223
+58.187.164.236 1 1 1185 20190203230830
+178.175.143.158 1 1 2718 20190227035315
+159.203.196.79 1 1 30087 20190223183529
+157.50.16.143 6 59 893577 20190210051707
+85.140.93.158 2 2 2750 20190228180111
+178.175.135.101 2 2 5639 20190227135342
+69.12.72.169 1 1 0 20190221110909
+173.252.87.14 0 1 69 
+192.227.86.186 4 4 5476 20190204153447
+64.233.172.237 1 1 9984 20190226104138
+223.228.36.120 3 47 574453 20190211111425
+192.42.116.15 2 2 5639 20190218155833
+8.30.124.123 1 1 1185 20190212124131
+23.129.64.106 1 1 2718 20190219124219
+104.167.2.15 4 4 5114 20190201062405
+86.130.244.100 2 2 9814 20190211002004
+157.51.114.111 0 2 83400 
+146.66.238.74 1 1 1185 20190203023623
+136.233.9.102 5 51 592432 20190217032644
+94.198.216.23 1 1 1186 20190227170520
+64.71.78.76 1 1 1185 20190204090904
+185.220.101.24 2 2 5639 20190227142033
+210.18.153.176 1 1 9983 20190201003826
+54.211.96.97 1 1 9985 20190221021450
+197.210.47.77 1 1 1185 20190202035705
+42.109.156.189 3 46 567334 20190216122221
+64.71.78.243 4 4 5476 20190212002645
+185.220.101.7 1 1 9985 20190204210651
+31.13.115.2 0 7 80043 
+89.147.68.29 7 7 69888 20190215034847
+195.98.77.131 2 2 2750 20190228215655
+104.249.46.38 1 1 11470 20190221093233
+157.50.63.31 4 54 723890 20190201070604
+185.189.113.43 2 2 37777 20190228014652
+195.62.15.80 2 2 2756 20190228084818
+207.148.97.216 4 4 5476 20190210000935
+188.24.212.46 1 1 1185 20190202023210
+188.165.61.244 3 3 8357 20190224124512
+51.15.48.204 2 2 5639 20190221035955
+106.203.59.96 2 15 325488 20190212221149
+73.244.90.205 0 1 22022 
+141.255.162.38 1 1 2718 20190225221338
+93.185.19.44 2 2 6354 20190228112950
+94.76.125.54 2 2 2756 20190228112043
+185.222.202.12 1 1 9986 20190212184201
+42.111.136.18 1 1 9985 20190207023021
+217.12.223.56 4 4 11278 20190224121748
+37.128.222.30 2 2 5639 20190226114152
+42.106.19.16 3 48 708264 20190212103131
+138.197.202.197 1 1 9983 20190201003826
+185.36.75.108 2 2 5639 20190224062508
+174.100.215.65 0 1 48151 
+197.53.172.182 1 1 1185 20190202024529
+104.244.73.126 1 1 9985 20190212161814
+199.249.230.67 1 1 9985 20190212163207
+109.206.140.153 2 2 2756 20190228235425
+217.131.225.250 3 3 3555 20190213011111
+185.220.100.254 2 2 5639 20190218204540
+115.146.127.55 1 1 1185 20190202191131
+54.38.69.64 1 20 165901 20190205185757
+39.35.54.96 1 1 1185 20190202023904
+37.59.40.127 4 4 5541 20190219051542
+136.233.9.96 4 46 576968 20190211061457
+89.151.186.216 2 2 6340 20190228235109
+64.71.74.224 1 1 1185 20190201030432
+54.37.16.241 1 1 9985 20190204210755
+196.188.127.87 1 1 1185 20190210005202
+42.106.28.134 1 1 10619 20190213143004
+188.166.9.235 1 1 9981 20190219011638
+165.16.77.75 2 2 2370 20190212031535
+31.184.238.190 1 1 41819 20190212133435
+173.252.95.13 1 6 121062 20190228025454
+178.17.174.14 2 2 5639 20190217023540
+173.252.95.4 1 12 103198 20190228025455
+136.233.9.105 6 52 600936 20190228074917
+64.71.74.145 1 1 1185 20190210125040
+42.111.154.198 6 60 1021778 20190221033634
+42.106.6.40 3 46 704005 20190226011101
+91.191.7.106 1 1 1185 20190204110348
+185.17.149.135 4 4 75554 20190225053700
+157.50.111.67 3 42 549934 20190228055425
+178.17.171.78 1 1 9983 20190224062156
+180.163.220.68 5 66 827669 20190208134108
+91.210.145.172 4 4 20025 20190207085647
+185.220.101.26 1 1 2718 20190221195101
+173.252.95.14 0 1 48883 
+62.210.111.66 1 1 9985 20190223054841
+52.165.150.117 3 3 29957 20190223234706
+207.102.138.158 2 38 381478 20190218113111
+45.66.32.220 2 2 5639 20190224091227
+37.202.3.30 1 1 9986 20190211052918
+185.101.216.149 1 1 9982 20190219010758
+198.167.223.100 2 2 5639 20190228015146
+46.35.193.12 1 1 1185 20190204013902
+37.214.62.156 2 2 2750 20190228111836
+109.69.67.17 2 2 5639 20190219180222
+42.108.249.104 1 1 9984 20190202081056
+158.69.192.239 1 1 2921 20190219124234
+5.164.34.101 4 40 419192 20190210095629
+151.252.244.169 1 1 1185 20190202160437
+185.93.180.235 6 6 66827 20190213014202
+129.56.70.163 1 1 1185 20190204112829
+207.189.0.80 2 2 37777 20190222053343
+95.55.139.5 2 2 2756 20190228201042
+187.84.15.117 1 1 1185 20190201023115
+176.28.69.175 2 2 2756 20190228231141
+64.71.79.216 1 1 1185 20190203204619
+110.138.34.253 1 1 1185 20190207004921
+198.98.50.112 1 1 9983 20190219032041
+42.106.6.160 3 48 708263 20190225091016
+37.204.37.15 4 40 419191 20190225071531
+103.209.194.129 4 4 5476 20190204232832
+185.104.120.4 3 3 22893 20190224124525
+171.4.131.142 1 1 1185 20190202171401
+5.135.158.101 1 1 9986 20190204210628
+60.191.38.77 3 3 125457 20190218043355
+89.201.187.84 1 1 1185 20190212155350
+202.46.56.63 1 1 9986 20190221090245
+85.206.165.11 3 3 79596 20190224101851
+178.175.129.91 1 1 9986 20190204210808
+42.111.35.94 3 5 43172 20190211080935
+166.62.88.118 1 1 9984 20190224215118
+192.227.112.135 1 1 1308 20190204000005
+185.220.101.30 1 1 2718 20190224192502
+88.199.163.133 1 1 1185 20190202060319
+202.46.54.134 1 1 9985 20190222045523
+78.85.5.14 2 2 6340 20190228092612
+107.170.96.6 1 1 77162 20190223183529
+192.160.102.166 2 2 5639 20190223131141
+109.248.149.45 3 3 79596 20190213074902
+31.13.115.11 1 9 36254 20190205034812
+64.233.172.233 0 1 353 
+52.165.166.139 4 4 39940 20190223220617
+103.242.199.182 3 47 571240 20190205002922
+192.227.113.73 4 4 5237 20190204152029
+106.203.62.48 3 32 1057347 20190212132145
+185.220.101.52 2 2 5639 20190219071141
+35.163.36.207 1 1 9986 20190226232737
+78.142.19.43 2 2 5639 20190228202850
+91.210.145.182 6 6 7582 20190211123934
+36.75.143.150 1 1 1185 20190206231200
+176.221.120.74 1 1 1185 20190210004117
+198.96.155.3 2 2 19969 20190204210514
+185.217.71.131 3 3 79596 20190205020306
+173.252.95.6 0 7 103229 
+192.227.88.124 1 1 1185 20190209121332
+42.106.25.69 3 48 708264 20190211081105
+77.244.24.148 2 2 2750 20190228212954
+87.118.112.63 1 1 2921 20190224011625
+180.163.220.3 1 32 498444 20190208134026
+136.233.9.1 5 64 1130595 20190225194957
+157.51.99.124 4 39 800743 20190219135522
+171.25.193.78 1 1 9984 20190212161857
+185.100.86.100 2 2 5639 20190218002758
+157.51.169.26 0 1 19276 
+178.175.148.165 1 1 9984 20190219005347
+31.13.115.14 0 9 63879 
+91.133.5.179 2 2 6354 20190228091122
+95.130.12.33 1 1 2718 20190224011608
+31.13.115.1 2 15 241550 20190205034816
+185.220.101.35 1 1 2718 20190227043541
+178.137.16.113 1 1 41819 20190201024107
+62.122.245.122 2 2 2756 20190228232010
+78.184.225.218 1 1 1185 20190202033056
+54.37.13.231 2 2 19969 20190224214455
+35.239.114.212 1 1 528 20190204064720
+42.106.29.206 3 48 708264 20190212224240
+106.197.174.51 2 40 465438 20190210111748
+82.102.18.137 2 2 37777 20190228085154
+36.84.229.178 1 1 1185 20190201223341
+102.165.54.56 2 2 5639 20190223225901
+110.227.224.75 2 2 44537 20190206124136
+178.175.143.165 1 1 2718 20190227084550
+45.125.65.45 1 1 9984 20190219005618
+192.0.99.66 3 45 566979 20190218183520
+109.175.98.126 1 1 1185 20190214021002
+173.252.95.17 0 7 83125 
+69.162.68.206 3 46 594439 20190226022745
+192.185.4.34 1 1 41819 20190205162405
+162.247.74.204 1 1 2718 20190228205144
+178.175.148.227 2 2 5639 20190217192158
+88.198.27.52 1 1 9985 20190225033801
+54.36.189.105 1 1 2718 20190218104052
+173.252.95.10 0 7 80407 
+192.160.102.165 1 1 9983 20190219005131
+64.246.165.180 1 1 9986 20190219161944
+171.61.185.147 5 5 192927 20190218003629
+173.193.191.205 2 2 19966 20190227150458
+119.158.108.83 1 1 1185 20190202001535
+60.243.115.168 6 93 1141786 20190223183636
+95.25.63.34 4 4 12694 20190228232803
+78.109.23.2 2 2 5639 20190221144058
+8.28.16.254 1 1 41819 20190202172112
+180.247.26.192 1 1 1185 20190202062640
+209.95.51.11 2 2 5639 20190221091206
+195.3.144.185 1 1 9985 20190225072852
+108.31.247.75 1 1 9985 20190212171525
+49.44.87.36 3 46 567737 20190223211204
+173.252.95.28 0 7 70234 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20190201 53 143 1462869 28
+20190202 34 78 667605 26
+20190203 33 96 2044242 15
+20190204 45 95 734369 30
+20190205 31 139 1487864 16
+20190206 16 16 74370 11
+20190207 41 223 4255144 18
+20190208 31 158 1836100 15
+20190209 56 237 3462647 19
+20190210 92 442 6997862 28
+20190211 117 544 10710376 33
+20190212 248 1106 25211281 38
+20190213 42 105 1928274 18
+20190214 17 17 19848 10
+20190215 112 527 10414383 15
+20190216 28 146 1461418 12
+20190217 36 82 718451 19
+20190218 32 111 1241268 20
+20190219 67 208 3389802 31
+20190220 34 181 2176686 17
+20190221 80 353 7472267 24
+20190222 24 24 73367 16
+20190223 50 208 2774890 25
+20190224 58 184 3257882 27
+20190225 43 232 3566214 24
+20190226 45 234 4193970 19
+20190227 37 37 153466 26
+20190228 90 220 1985696 45
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 455
+30s-2mn 22
+15mn-30mn 23
+2mn-5mn 10
+5mn-15mn 21
+1h+ 28
+30mn-1h 66
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 112
+/wp-cron.php 467 0 281 285
+/ 258 3250350 163 109
+/wp-admin/admin-ajax.php 146 155326 1 2
+/wp-login.php 130 292368 69 68
+/blog/wp-login.php 72 89767 47 47
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff2 70 5401328 13 9
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2 67 2015691 3 29
+/contact-us/ 42 909969 10 7
+/sponsor/ 39 491666 8 10
+/about-us/ 38 569896 7 10
+/events-editing/ 38 551999 4 9
+/our-collaborations/ 31 543151 1 6
+/wp-admin/load-scripts.php 27 1827474 0 0
+/wp-admin/load-styles.php 13 946792 0 0
+/wp-admin/admin-post.php 13 0 0 12
+/wp-admin/post.php 9 2172157 0 1
+/wp-admin/ 7 206827 0 0
+/wp-admin/upload.php 5 133167 0 0
+/wp-json/yoast/v1/statistics 5 1290 0 0
+/wp-json/yoast/v1/ryte 5 660 0 0
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff 4 391652 0 1
+/wp-json/wp/v2/ 4 14744 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2 3 231486 0 0
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf 3 108114 0 1
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 3 170364 0 0
+/deleteme.chalgdb8.php 1 2223 0 0
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.ttf 2 196794 0 0
+/deleteme.wpnkao.php 1 16440 0 1
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot 2 72244 0 1
+/deleteme.chaamd7v.php 1 2223 0 0
+/deleteme.cha4wndv.php 1 2223 0 0
+/deleteme.chabneaa.php 1 2223 0 0
+/deleteme.chalqutn.php 1 2223 0 0
+/deleteme.wpi2r3.php 1 16440 0 0
+/deleteme.wpcuha.php 1 16440 0 0
+/wp-json/wp/v2/posts/ 1 760 0 0
+/deleteme.wpyar5.php 1 16440 0 0
+/deleteme.chayuik1.php 1 2223 0 0
+/deleteme.wpxs5d.php 1 16436 0 0
+/deleteme.chapbvzg.php 1 2223 0 0
+/deleteme.chapkwfa.php 1 2223 1 0
+/deleteme.wphxyy.php 1 16440 0 0
+/deleteme.wpzx4n.php 1 16107 0 0
+/wp-content/themes/oceanwp/assets/fonts/slick/slick.eot 2 2038 0 0
+/deleteme.chafxhhf.php 1 2223 1 0
+/deleteme.cha4qlzr.php 1 2223 1 0
+/deleteme.chasufmt.php 1 2223 0 0
+/deleteme.wpsh65.php 1 16440 0 0
+/deleteme.chanawnu.php 1 2223 0 0
+/deleteme.wp4xga.php 1 16107 0 0
+/deleteme.chav7kww.php 1 2223 1 0
+/deleteme.wpt90j.php 1 16440 0 1
+/wp-admin/profile.php 1 17822 0 0
+/author/admin/ 2 17256 0 2
+/deleteme.chamzxbg.php 1 2223 1 0
+/deleteme.wpw2kt.php 1 16440 0 1
+/deleteme.wpygmw.php 1 16440 0 0
+/deleteme.wpkj7y.php 1 16436 0 0
+/wp-load.php 1 0 1 1
+/deleteme.wpofbt.php 1 16440 0 0
+/deleteme.wpauvy.php 1 16440 0 1
+/deleteme.wpxinb.php 1 16440 0 0
+/deleteme.chaiqtkw.php 1 2223 0 0
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.eot 2 196972 0 1
+/deleteme.chamhxvb.php 1 2223 1 0
+/deleteme.chaeaiya.php 1 2223 1 0
+/deleteme.wpbris.php 1 16440 0 1
+/deleteme.chafp8lv.php 1 2223 0 0
+/deleteme.wpqczx.php 1 16440 0 1
+/deleteme.chaimqtd.php 1 2223 1 0
+/deleteme.wpzz0q.php 1 16440 0 0
+/xmlrpc.php 1 227 0 0
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff 2 162710 0 1
+/deleteme.chapqaed.php 1 2223 1 0
+/deleteme.chazybjo.php 1 2223 0 0
+/deleteme.chaibje1.php 1 2223 1 0
+/deleteme.chattvha.php 1 2223 0 0
+/deleteme.wpbu1a.php 1 16440 0 0
+/deleteme.wp2vt3.php 1 16440 0 0
+/deleteme.wp2jsd.php 1 16440 0 0
+/deleteme.wpu7em.php 1 16440 0 1
+/deleteme.cha1wqhc.php 1 2223 0 0
+/deleteme.wpngz0.php 1 16440 0 0
+/deleteme.chax1jfz.php 1 2223 0 0
+/deleteme.wp5w7p.php 1 16440 0 1
+/deleteme.chamncmq.php 1 2223 1 0
+/deleteme.wp4mdt.php 1 16107 0 0
+/deleteme.wpkwtt.php 1 16440 0 0
+/deleteme.chamqodj.php 1 2223 0 0
+/deleteme.wpeztw.php 1 16107 0 1
+/deleteme.chaiwya4.php 1 2223 1 0
+/deleteme.wphwyh.php 1 16440 0 1
+/deleteme.chaf2vy1.php 1 2279 0 0
+/wp-admin/install.php 1 528 1 1
+/deleteme.wpjzlr.php 1 16440 0 0
+/deleteme.wpapiy.php 1 16440 0 0
+/deleteme.wpbnlm.php 1 16440 0 0
+/deleteme.chay6lmm.php 1 2223 1 0
+/deleteme.chaxlq0z.php 1 2223 0 0
+/deleteme.wpqpsy.php 1 16440 0 0
+/deleteme.chaoskwv.php 1 2223 1 0
+/deleteme.wpju5x.php 1 16107 0 1
+/deleteme.chaymvbj.php 1 2223 0 0
+/deleteme.wpugpg.php 1 16440 0 0
+/deleteme.wpoqh1.php 1 16440 0 0
+/deleteme.chaaovxv.php 1 2223 0 0
+/deleteme.chaufi5p.php 1 2223 0 0
+/deleteme.wpq5qh.php 1 16440 0 0
+/deleteme.wpcemf.php 1 16107 0 1
+/deleteme.cha6aafy.php 1 2223 1 0
+/deleteme.chatmudc.php 1 2223 1 0
+/deleteme.chap2fpt.php 1 2223 0 0
+END_SIDER

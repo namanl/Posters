@@ -1,0 +1,8 @@
+[09-Dec-2018 11:19:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/srxgsostp9rh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srxgsostp9rh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[08-Feb-2019 20:55:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/srxgsostp9rh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srxgsostp9rh/public_html/wp-content/themes/twentysixteen/404.php on line 10

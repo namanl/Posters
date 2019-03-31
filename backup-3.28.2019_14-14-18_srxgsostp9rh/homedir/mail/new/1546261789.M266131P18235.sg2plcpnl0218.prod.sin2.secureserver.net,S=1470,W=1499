@@ -1,0 +1,29 @@
+Return-Path: <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>
+Delivered-To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Received: from sg2plcpnl0218.prod.sin2.secureserver.net
+	by sg2plcpnl0218.prod.sin2.secureserver.net with LMTP id mKS+Dh0VKlw7RwAArmgpSg
+	for <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>; Mon, 31 Dec 2018 06:09:49 -0700
+Return-path: <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>
+Envelope-to: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Delivery-date: Mon, 31 Dec 2018 06:09:49 -0700
+Received: from srxgsostp9rh by sg2plcpnl0218.prod.sin2.secureserver.net with local (Exim 4.91)
+	(envelope-from <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>)
+	id 1gdxKH-000Eoe-3Y
+	for srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net; Mon, 31 Dec 2018 06:09:49 -0700
+To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Subject: [CSED] New User Registration
+X-PHP-Script: blog.csedvit.com/wp-admin/user-new.php for 103.242.239.153
+X-PHP-Filename: /home/srxgsostp9rh/public_html/blog/wp-admin/user-new.php REMOTE_ADDR: 103.242.239.153
+Date: Mon, 31 Dec 2018 13:09:48 +0000
+From: WordPress <wordpress@blog.csedvit.com>
+Message-ID: <08c77f022d9ce3a90b414d68025dd771@blog.csedvit.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+New user registration on your site CSED:
+
+Username: naman
+
+Email: namanl.csedvit@gmail.com
+

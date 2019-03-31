@@ -1,0 +1,616 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201812 will be lost/reset.
+# Last config file used to build this data file was /home/srxgsostp9rh/tmp/awstats/awstats.blog.csedvit.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2697                
+POS_VISITOR 11463               
+POS_DAY 15308               
+POS_DOMAIN 3576                
+POS_LOGIN 4013                
+POS_ROBOT 4168                
+POS_WORMS 4863                
+POS_EMAILSENDER 4994                
+POS_EMAILRECEIVER 5137                
+POS_SESSION 16021               
+POS_SIDER 16228               
+POS_FILETYPES 5272                
+POS_DOWNLOADS 5601                
+POS_OS 5649                
+POS_BROWSER 5863                
+POS_SCREENSIZE 6600                
+POS_UNKNOWNREFERER 6674                
+POS_UNKNOWNREFERERBROWSER 7100                
+POS_ORIGIN 7266                
+POS_SEREFERRALS 7409                
+POS_PAGEREFS 7631                
+POS_SEARCHWORDS 7805                
+POS_KEYWORDS 7957                
+POS_MISC 2360                
+POS_ERRORS 8016                
+POS_CLUSTER 3869                
+POS_SIDER_404 8173                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190101002407 54 18856 16551346629923
+FirstTime 20181201011439
+LastTime 20181231093125
+LastUpdate 20190101054153 54 0 53 0 0
+TotalVisits 169                 
+TotalUnique 89                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 95                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 59 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 42 49 579308
+1 27 96 3272740 50 60 260124
+2 606 1504 66503467 96 375 302719
+3 707 1265 58049678 76 353 1241949
+4 221 601 19280720 74 197 1787209
+5 81 349 10859995 41 54 557128
+6 241 1035 24015601 71 127 763408
+7 280 667 17108186 77 218 1532397
+8 144 555 14230644 49 93 790448
+9 346 736 12559438 60 87 835274
+10 120 275 7410829 48 60 269374
+11 15 264 15250070 54 67 385027
+12 2 2 32368 38 84 838937
+13 80 208 2710569 56 79 717878
+14 484 890 16297857 67 159 1287355
+15 382 966 18304830 53 260 2254754
+16 287 517 11808131 73 107 1089279
+17 41 115 2659791 59 139 1680139
+18 1 1 30223 27 28 273562
+19 12 77 2614923 47 86 679977
+20 31 290 7030221 60 85 2329444
+21 9 144 3032591 44 61 417922
+22 3 83 3761405 50 56 448626
+23 6 85 3279716 68 119 966764
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 2964 7990 252632418
+in 1041 2527 60907518
+sg 65 65 709532
+cn 26 26 787575
+br 9 9 190491
+ca 5 91 4144671
+fr 4 4 65116
+md 3 3 63497
+vg 2 2 62638
+de 2 2 379646
+sc 2 2 32558
+ru 1 1 31129
+cl 1 1 31319
+hn 1 1 31318
+rs 0 1 34567
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+blog 1058 0 20181231235047 0
+Googlebot/ 286 1846849 20181230163405 21
+Baiduspider/ 245 2607936 20181231235046 0
+YandexBot/ 164 670017 20181231202941 56
+Feedfetcher\-Google 163 3837462 20181231040930 0
+YandexMobileBot/ 141 1289025 20181231173658 0
+Googlebot\-Image/ 30 932712 20181221143418 0
+bingbot/ 29 192556 20181209161846 5
+YandexImages/ 27 4166771 20181231173421 0
+(firefox/)([0-9]\.|[0-1][0]\.) 8 91685 20181230113647 5
+no_user_agent 3 191015 20181228043850 0
+unknown 1 69 20181214025038 1
+XoviBot/ 1 190921 20181203002216 0
+crawl 1 31319 20181231234525 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+jpeg 628 29102881 0 0
+woff2 170 9009131 0 0
+html 614 13419509 0 0
+js 2461 49645095 0 0
+woff 10 139793 0 0
+png 720 47748677 0 0
+ttf 1 36038 0 0
+gif 23 1030044 0 0
+Unknown 50 9917 0 0
+svg 57 339453 0 0
+css 2024 9446101 0 0
+jpg 686 64461085 0 0
+php 3281 95716269 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+win7 35 34
+win8 16 16
+winxp 28 28
+win10 8835 3879
+Unknown 103 38
+win8.1 4 4
+win2003 1 1
+linux 75 15
+macosx 179 9
+linuxandroid 1448 101
+macosx12 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 32
+chrome64.0.3282.186 2 2
+chrome66.0.3359.117 3 3
+chrome66.0.3359.158 2 0
+chrome66.0.3359.139 1 1
+mozilla 1 1
+safari6.0.5 68 3
+chrome40.0.2214.89 1 1
+chrome55.0.2883.87 2 2
+chrome71.0.3578.80 137 7
+chrome71.0.3578.83 183 17
+netscape5.0 1 1
+chrome62.0.3202.94 2 2
+msie6.0 26 26
+chrome69.0.3497.100 187 12
+chrome67.0.3394.0 1 1
+chrome70.0.3538.110 8747 3858
+opera12.17 9 9
+Unknown 33 33
+safari4.0.2 2 2
+edge17 1 0
+chrome71.0.3578.98 500 48
+chrome71.0.3578.99 8 4
+safari10.0.1 1 1
+chrome70.0.3538.80 247 9
+chrome56.0.2924.87 1 1
+chrome59.0.3071.86 1 1
+chrome49.0.2623.75 10 5
+chrome70.0.3538.77 1 0
+chrome68.0.3440.91 510 39
+chrome58.0.3029.110 3 3
+chrome66.0.3359.181 2 2
+firefox17.0 32 32
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_Dataprovider.com) 20181214080618
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com) 20181201162904
+Installatron_Plugin/9.1.41 20181220140024
+Mozilla/5.0_AppleWebKit/536.30.1_(KHTML,_like_Gecko)_Version/6.0.5_Safari/536.30.1_Installatron_(Mimicking_WebKit) 20181211194023
+Installatron_Plugin/9.1.42 20181231070729
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Installatron_Plugin/9.1.41 20181220140024
+Installatron_Plugin/9.1.42 20181231070729
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 362 370
+From1 0 0
+From2 12 19
+From3 1 1
+From4 3751 10335
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+www_google_co_in 1 3
+www_google_rs 0 1
+www_google_com 11 14
+www_google_ca 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+301 50 964
+404 650 6034198
+503 10 2866
+400 2 296
+206 4 201921
+405 7 420
+302 64 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 37
+/wp-content/themes/oceanwp/assets/js/ 1 -
+/wp-content/uploads/2017/04/home-2-300x195.jpg 17 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/themes/activation/style.css 4 http://blog.csedvit.com/about/
+/wp-content/uploads/2017/04/home-4-225x300.jpg 19 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/themes/primer/assets/js/navigation.min.js 4 http://blog.csedvit.com/about/
+/portfolio/ 3 -
+/wp-content/uploads/2017/04/gallery-6-300x200.jpg 25 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/gallery-5-300x200.jpg 26 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/portfolio-2a-300x113.jpg 25 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/portfolio-2b-300x140.jpg 25 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/gallery-1-300x200.jpg 26 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/services-1-300x195.jpg 16 http://blog.csedvit.com/wp-admin/post.php
+/wp-admin/admin-ajax.php 34 http://blog.csedvit.com/wp-admin/customize.php
+/wp-content/uploads/2017/04/gallery-3-300x200.jpg 27 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/themes/primer/assets/js/skip-link-focus-fix.min.js 4 http://blog.csedvit.com/about/
+/wp-content/uploads/2017/04/about-us-headshot-3-300x300.jpg 17 http://blog.csedvit.com/wp-admin/post.php
+/%20(%20custom%20===%20service_type 9 http://blog.csedvit.com/{{%20(%20'custom'%20===%20service_type%20)%20
+/wp-content/uploads/2017/04/gallery-4-200x300.jpg 27 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/gallery-8-300x200.jpg 25 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/services-2-300x199.jpg 16 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/portfolio-1a-300x199.jpg 22 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/about-us-headshot-1-300x300.jpg 27 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/about-us-headshot-2-300x300.jpg 27 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/portfolio-2d-300x268.jpg 26 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/portfolio-1b-300x169.jpg 27 http://blog.csedvit.com/wp-admin/post.php
+/faq/ 1 -
+/about/ 1 -
+/wp-content/uploads/2017/04/home-3-300x200.jpg 16 http://blog.csedvit.com/wp-admin/post.php
+/hello-world/ 1 -
+/services/ 3 -
+/wp-content/uploads/2017/04/portfolio-2c-300x146.jpg 25 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/home-1-300x200.jpg 18 http://blog.csedvit.com/wp-admin/post.php
+/blog/ 5 -
+/wp-content/uploads/2017/04/about-us-1-300x248.jpg 21 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/portfolio-1c-300x245.jpg 27 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/gallery-2-300x200.jpg 26 http://blog.csedvit.com/wp-admin/post.php
+/wp-content/uploads/2017/04/gallery-7-300x200.jpg 27 http://blog.csedvit.com/wp-admin/post.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 95
+136.233.9.102 2586 5550 169083417 20181204054745
+106.197.147.110 320 327 1955514 20181201143444
+106.197.165.175 299 753 13745436 20181201162641
+157.46.101.227 241 534 12065815 20181203154306
+223.182.214.151 189 464 11372942 20181201171105
+106.197.178.166 160 267 4765375 20181201152551
+43.255.154.29 65 65 709532 20181231070729
+64.233.173.175 27 367 11732498 20181231071652
+64.233.173.179 26 369 15971575 20181231071653
+103.242.239.153 24 140 4394933 20181231061058
+64.233.173.177 23 353 15125835 20181231071653
+136.233.9.97 14 277 9340048 20181213020903
+106.197.143.156 13 88 2006921 20181201135026
+60.243.125.229 12 148 10607801 20181205110047
+72.52.112.55 5 81 2245507 20181201203631
+106.203.50.33 5 71 1468305 20181217144212
+195.154.52.107 4 4 65116 20181224150932
+157.50.123.129 4 70 2345201 20181211151605
+69.162.68.206 3 68 2334072 20181211194024
+47.8.162.219 3 88 3904004 20181202051539
+109.185.149.226 3 3 63497 20181202055216
+201.75.123.177 3 3 63497 20181202201357
+157.51.98.195 3 82 4331109 20181202045821
+49.44.122.166 3 71 3022429 20181226011925
+106.208.41.102 3 82 3216030 20181207233535
+143.191.230.245 1 1 31319 20181212045845
+97.70.245.171 0 1 73335 
+14.155.222.72 1 1 30223 20181201183210
+157.46.39.41 1 1 16277 20181219212234
+183.160.25.155 1 1 30315 20181202030649
+125.44.26.86 1 1 30312 20181202030849
+49.89.127.200 1 1 30315 20181202025039
+106.208.13.74 1 1 31319 20181222044355
+121.35.98.124 1 1 30223 20181201170501
+61.133.242.251 1 1 30212 20181202024646
+49.70.53.158 1 1 30270 20181201170304
+1.204.203.36 1 1 30271 20181201165825
+107.174.143.42 1 1 1239 20181202235221
+121.226.183.87 1 1 30140 20181201163529
+117.37.98.171 1 1 30212 20181202024806
+157.46.116.131 1 1 16333 20181202205156
+157.46.97.93 3 82 3727334 20181215222640
+66.249.93.49 1 18 74295 20181204134929
+178.220.213.55 0 1 34567 
+106.110.211.68 1 1 30315 20181202025405
+172.81.185.100 2 2 62258 20181202235144
+157.50.15.79 1 1 16277 20181212104017
+138.94.217.114 1 1 31318 20181203230651
+111.126.59.6 1 1 30315 20181202025238
+157.50.21.146 2 2 29429 20181212041421
+157.46.12.191 1 1 16278 20181205205638
+158.69.27.211 1 1 189823 20181214080618
+122.15.77.147 1 1 31318 20181210065303
+66.160.199.91 2 3 61632 20181201203730
+66.249.82.147 0 1 910578 
+106.57.241.24 1 1 30212 20181202024220
+5.189.137.18 2 2 379646 20181210164250
+49.70.52.218 1 1 30270 20181201165819
+60.243.124.121 3 11 457306 20181201204012
+206.71.62.81 1 1 12644 20181215193000
+42.236.158.214 1 1 30227 20181201162300
+60.243.121.21 1 1 16277 20181212212617
+111.172.26.169 1 1 30223 20181201170829
+106.208.27.225 0 2 364477 
+1.204.202.98 1 1 30227 20181201162221
+223.199.159.64 1 1 30428 20181201161205
+157.48.5.56 0 1 34071 
+1.81.100.244 1 1 30223 20181201190901
+185.125.230.37 1 1 31129 20181202142309
+70.39.246.37 1 1 23533 20181201162904
+122.15.77.140 2 29 1104699 20181203082512
+66.102.6.15 1 2 32505 20181208060250
+157.50.231.190 1 1 16277 20181217115628
+117.204.242.243 3 69 2313882 20181231023906
+136.233.9.98 3 70 2347953 20181211215929
+181.214.194.121 1 1 31319 20181210021441
+66.102.6.17 3 6 97514 20181231093125
+117.60.206.167 1 1 30315 20181202024900
+168.80.102.127 2 2 32558 20181212012725
+49.89.114.210 1 1 30146 20181201162529
+47.247.180.36 1 1 16277 20181226011906
+111.113.115.95 1 1 30212 20181202024348
+23.235.252.219 1 1 1239 20181202122135
+115.61.246.11 1 1 30428 20181201162130
+177.52.42.12 3 3 63497 20181202141927
+120.209.156.80 1 1 31129 20181202045722
+177.19.181.10 3 3 63497 20181202130903
+66.249.93.47 3 22 235224 20181204134936
+175.10.36.178 1 1 30142 20181201163001
+89.35.31.156 2 2 62638 20181205052326
+222.246.48.160 1 1 30270 20181201165613
+66.249.93.51 1 17 187292 20181204134847
+66.102.6.19 1 2 32505 20181206012231
+99.251.156.82 0 1 34567 
+42.109.159.255 2 2 32554 20181217072137
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20181201 2261 5434 104464521 33
+20181202 1375 2733 125945884 32
+20181203 251 595 13542659 8
+20181204 38 94 946238 7
+20181205 22 192 11938645 8
+20181206 6 74 3271770 3
+20181207 7 150 5553966 2
+20181208 5 7 974835 3
+20181209 4 5 942330 2
+20181210 6 7 492726 4
+20181211 16 279 9513269 5
+20181212 19 134 5015340 14
+20181213 4 71 2374348 1
+20181214 9 158 7177850 4
+20181215 4 83 3739978 2
+20181217 21 256 9680373 10
+20181219 4 38 324014 3
+20181220 2 2 17983 1
+20181222 3 3 49450 2
+20181223 2 2 18131 1
+20181224 6 7 117318 3
+20181225 2 2 18131 1
+20181226 6 74 3056837 3
+20181228 8 92 3562961 4
+20181229 2 2 18131 1
+20181230 5 6 68767 3
+20181231 38 225 7277538 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 3
+30s-2mn 6
+0s-30s 138
+5mn-15mn 5
+2mn-5mn 5
+30mn-1h 8
+1h+ 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 129
+/wp-admin/admin-ajax.php 2616 1544066 7 11
+/ 514 11577750 104 71
+/wp-admin/post.php 201 66118712 0 0
+/wp-admin/edit.php 99 2567298 0 0
+/wp-admin/load-scripts.php 79 5619157 2 1
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2 58 1745046 9 16
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff2 58 4475396 7 12
+/wp-admin/customize.php 57 13602642 0 0
+/wp-admin/themes.php 35 693592 0 0
+/wp-admin/ 29 807620 2 0
+/wp-admin/load-styles.php 29 2110767 0 2
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 27 1594636 0 0
+/wp-admin/admin.php 26 1651669 0 0
+/wp-json/yoast/v1/statistics 25 6617 0 0
+/wp-json/yoast/v1/ryte 25 3300 0 0
+/wp-login.php 24 29775 3 10
+/wp-json/wp/v2/ 13 48007 0 0
+/category/uncategorized/ 11 224618 0 2
+/wp-admin/post-new.php 10 481185 0 0
+/wp-admin/theme-install.php 8 144155 0 0
+/wp-admin/async-upload.php 7 4231 0 0
+/how-to-target-your-niche-audience/ 7 92231 0 1
+/wp-content/themes/hueman/assets/front/webfonts/fa-solid-900.woff2 6 220656 0 0
+/wp-content/themes/hueman/assets/front/webfonts/fa-regular-400.woff2 6 73506 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2 6 462972 1 0
+/deleteme.cha39dlt.php 1 2231 1 0
+/deleteme.wpdhmm.php 1 12722 0 1
+/deleteme.wpktfw.php 1 12461 0 1
+/deleteme.chatxhrc.php 1 2083 1 0
+/deleteme.chadys1h.php 1 2083 1 0
+/wp-admin/update-core.php 5 72578 0 0
+/sophia-the-first-robot-to-be-recognized-as-a-citizen/ 1 33487 0 0
+/deleteme.chav8mg9.php 1 2083 1 0
+/deleteme.wp4dhi.php 1 13793 0 1
+/deleteme.chadc7ia.php 1 2083 1 0
+/deleteme.wpdzn0.php 1 15900 0 1
+/4-startups-you-must-know-about-this-environment-day/ 1 18295 0 0
+/wp-admin/update.php 4 38775 0 0
+/the-numbers-do-lie/ 4 51609 1 3
+/wp-admin/index.php 4 108879 0 0
+/deleteme.wpcnov.php 1 15900 0 1
+/deleteme.wpgyrt.php 1 12722 0 1
+/wp-admin/revision.php 1 15142 0 0
+/deleteme.wpprz1.php 1 15900 0 1
+/listicle/ 2 28007 0 0
+/deleteme.chau9zuu.php 1 2231 1 0
+/the-subtle-science-and-exact-art-of-tweeting/ 1 13071 0 0
+/heres-what-to-expect-from-the-world-by-2050/ 1 13803 0 1
+/deleteme.wpccph.php 1 14691 0 1
+/deleteme.chabetq8.php 1 2083 1 0
+/deleteme.wp37bh.php 1 14326 0 1
+/deleteme.chal5cmg.php 1 2231 1 0
+/wp-admin/plugins.php 2 73686 0 0
+/deleteme.chaxezqm.php 1 2083 1 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 5 4900 0 0
+/deleteme.wpdkjv.php 1 15354 0 1
+/deleteme.wplsb9.php 1 12722 0 1
+/wp-admin/user-new.php 1 17506 0 0
+/category/office/ 1 12025 0 0
+/deleteme.wpodui.php 1 13793 0 1
+/deleteme.chal91mb.php 1 2231 1 0
+/deleteme.wp0zdb.php 1 15900 0 1
+/deleteme.chaenjab.php 1 2083 1 0
+/deleteme.chaaqxvz.php 1 2231 1 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 4 36980 0 0
+/deleteme.wpznsn.php 1 14326 0 1
+/deleteme.chaonsce.php 1 2083 1 0
+/net-neutrality-is-no-more/ 1 13180 1 1
+/deleteme.wpvwxh.php 1 12461 0 1
+/deleteme.wp1fau.php 1 15900 0 1
+/deleteme.chajiwlv.php 1 2083 1 0
+/deleteme.chakhlcw.php 1 2083 1 0
+/wp-admin/nav-menus.php 3 188738 0 0
+/deleteme.chayl434.php 1 2231 1 0
+/deleteme.34b2c12f7bf745769c869c792f4d0245.php 1 0 0 0
+/deleteme.cha0nxxm.php 1 2083 1 0
+/deleteme.chafpzwv.php 1 2231 1 0
+/category/startup/ 1 12399 0 0
+/category/currency/ 4 58863 0 2
+/deleteme.wper5e.php 1 15900 0 1
+/deleteme.wpdea9.php 1 13793 0 1
+/category/entrepreuneur/ 1 13439 0 0
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf 1 36038 0 0
+/category/uncategorized/page/3/ 3 62391 0 0
+/deleteme.chaigex5.php 1 2083 1 0
+/category/culture/ 2 43796 0 0
+/deleteme.chattjno.php 1 2083 0 0
+/wp-content/plugins/wordpress-popup/assets/fonts/wpdui-fi.woff2 2 45782 0 0
+/deleteme.wp9nad.php 1 15900 0 1
+/category/uncategorized/page/2/ 3 65068 0 0
+/revolution-in-car-retailing/ 3 50636 0 0
+/deleteme.wpmibb.php 1 12461 0 1
+/blog/ 1 11900 0 0
+/deleteme.chaj9acz.php 1 2231 1 0
+/how-to-expand-your-network-of-people/ 2 34558 0 0
+/deleteme.cha8w4sy.php 1 2083 1 0
+/deleteme.chahclb6.php 1 2083 1 0
+/deleteme.wpoo3i.php 1 15900 0 1
+/government-policies-to-help-start-ups-entrepreneurs/ 1 12663 0 1
+/wp-admin/plugin-install.php 2 40630 0 0
+/deleteme.chazbx93.php 1 2231 1 0
+/deleteme.chaqbnq3.php 1 2231 0 0
+/page/2/ 1 15289 0 0
+/wp-admin/users.php 4 73377 0 0
+/deleteme.wp7yum.php 1 15900 0 1
+/wp-content/themes/hueman/functions/czr-base-fmk/assets/fonts/webfonts/fa-solid-900.woff2 1 67401 0 0
+/embracing-electric-vehicles/ 1 12644 1 1
+/deleteme.wpmank.php 1 15900 0 1
+/deleteme.chazqy5a.php 1 2083 1 0
+/deleteme.wpdpjs.php 1 12722 0 1
+/feed/ 1 23533 1 1
+/deleteme.wpotiw.php 1 13571 0 1
+/deleteme.chaqwsyz.php 1 2231 1 0
+/deleteme.chayhslr.php 1 2083 1 0
+/deleteme.wppni6.php 1 13793 0 1
+/deleteme.wp9xvz.php 1 13793 0 1
+/deleteme.wpgpkr.php 1 15900 0 1
+/deleteme.chak4xgk.php 1 2083 1 0
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff 1 97913 0 1
+/deleteme.wptjg4.php 1 15900 0 1
+/home/ 1 12537 0 0
+/wp-content/themes/hueman/assets/front/webfonts/fa-brands-400.woff2 6 323736 0 0
+/deleteme.cham35uq.php 1 2083 1 0
+/product-prototyping/ 2 45747 0 0
+/deleteme.wpe7aa.php 1 15354 0 1
+/deleteme.chapdfwv.php 1 2231 1 0
+/deleteme.charvdzr.php 1 2083 1 0
+/deleteme.wpln8k.php 1 15619 0 1
+/elementor-608/ 1 10343 0 1
+END_SIDER

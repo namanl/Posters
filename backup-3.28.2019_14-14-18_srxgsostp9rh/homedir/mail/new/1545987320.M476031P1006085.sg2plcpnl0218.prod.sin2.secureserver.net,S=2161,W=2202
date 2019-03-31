@@ -1,0 +1,41 @@
+Return-Path: <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>
+Delivered-To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Received: from sg2plcpnl0218.prod.sin2.secureserver.net
+	by sg2plcpnl0218.prod.sin2.secureserver.net with LMTP id MMS/GfjkJVwFWg8ArmgpSg
+	for <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>; Fri, 28 Dec 2018 01:55:20 -0700
+Return-path: <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>
+Envelope-to: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Delivery-date: Fri, 28 Dec 2018 01:55:20 -0700
+Received: from root by sg2plcpnl0218.prod.sin2.secureserver.net with local (Exim 4.91)
+	(envelope-from <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>)
+	id 1gcnvM-004EVS-AJ
+	for srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net; Fri, 28 Dec 2018 01:55:20 -0700
+To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 5.0.2 now available
+Date: Fri, 28 Dec 2018 01:55:20 -0700
+From: noreply@sg2plcpnl0218.prod.sin2.secureserver.net
+Message-ID: <00a138ab03ec209191a758d5b984ba39@sg2plcpnl0218.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.42
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 5.0.2  is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://csedvit.com
+
+
+The changes for this version are:
+
+WordPress 5.0.2 is a maintenance release that addresses 73 bugs and improves performance.
+
+Highlights
+* 45 total Block Editor improvements are included (14 performance enhancements &amp; 31 bug fixes).
+* 17 Block Editor related bugs have been fixed across all of the bundled themes.
+* Some internationalization (i18n) issues related to script loading have also been fixed.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

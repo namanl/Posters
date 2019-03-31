@@ -1,0 +1,25 @@
+Return-Path: <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>
+Delivered-To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Received: from sg2plcpnl0218.prod.sin2.secureserver.net
+	by sg2plcpnl0218.prod.sin2.secureserver.net with LMTP id sDafJFF0v1vM3wsArmgpSg
+	for <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>; Thu, 11 Oct 2018 09:03:29 -0700
+Return-path: <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>
+Envelope-to: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Delivery-date: Thu, 11 Oct 2018 09:03:29 -0700
+Received: from srxgsostp9rh by sg2plcpnl0218.prod.sin2.secureserver.net with local (Exim 4.91)
+	(envelope-from <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>)
+	id 1gAdQv-003LqC-HM
+	for srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net; Thu, 11 Oct 2018 09:03:29 -0700
+To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Subject: [CSED VIT] Password Changed
+X-PHP-Script: csedvit.com/wp-login.php for 122.15.77.140
+X-PHP-Filename: /home/srxgsostp9rh/public_html/wp-login.php REMOTE_ADDR: 122.15.77.140
+Date: Thu, 11 Oct 2018 16:03:29 +0000
+From: WordPress <wordpress@csedvit.com>
+Message-ID: <99bd01b5416cc4bd9ca09a662bff12a7@csedvit.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Password changed for user: anushka24999@gmail.com
+

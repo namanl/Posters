@@ -1,0 +1,32 @@
+Return-Path: <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>
+Delivered-To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Received: from sg2plcpnl0218.prod.sin2.secureserver.net
+	by sg2plcpnl0218.prod.sin2.secureserver.net with LMTP id oCTVEBvWZlyLcgkArmgpSg
+	for <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>; Fri, 15 Feb 2019 08:09:15 -0700
+Return-path: <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>
+Envelope-to: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Delivery-date: Fri, 15 Feb 2019 08:09:15 -0700
+Received: from root by sg2plcpnl0218.prod.sin2.secureserver.net with local (Exim 4.91)
+	(envelope-from <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>)
+	id 1guf75-002esE-5g
+	for srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net; Fri, 15 Feb 2019 08:09:15 -0700
+To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress plugin Jetpack by WordPress.com 7.0.1 now available
+Date: Fri, 15 Feb 2019 08:09:15 -0700
+From: noreply@sg2plcpnl0218.prod.sin2.secureserver.net
+Message-ID: <009f73f18443b6258a427151726cccc1@sg2plcpnl0218.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.42
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to Jetpack by WordPress.com 7.0.1 is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://blog.csedvit.com
+
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

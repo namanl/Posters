@@ -1,0 +1,51 @@
+Return-Path: <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>
+Delivered-To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Received: from sg2plcpnl0218.prod.sin2.secureserver.net
+	by sg2plcpnl0218.prod.sin2.secureserver.net with LMTP id gIRxB6fjjFzLjAAArmgpSg
+	for <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>; Sat, 16 Mar 2019 04:53:11 -0700
+Return-path: <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>
+Envelope-to: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Delivery-date: Sat, 16 Mar 2019 04:53:11 -0700
+Received: from root by sg2plcpnl0218.prod.sin2.secureserver.net with local (Exim 4.91)
+	(envelope-from <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>)
+	id 1h57sE-000AEL-W0
+	for srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net; Sat, 16 Mar 2019 04:53:11 -0700
+To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 5.1 now available (major version)
+Date: Sat, 16 Mar 2019 05:53:10 -0600
+From: noreply@sg2plcpnl0218.prod.sin2.secureserver.net
+Message-ID: <3943002c20d3dd31d94406bae3bd11cb@sg2plcpnl0218.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.43
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 5.1 (major version) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://csedvit.com
+
+
+The changes for this version are:
+
+Following WordPress 5.0 — a major release which introduced the new block editor — 5.1 focuses on polish, in particular by improving the overall performance of the editor. In addition, this release paves the way for a better, faster, and more secure WordPress with some essential tools for site administrators and developers.
+
+Highlights
+* Site Health: With security and speed in mind, this release introduces WordPress's first Site Health features. WordPress will start showing notices to administrators of sites that run long-outdated versions of PHP, which is the programming language that powers WordPress.
+* Editor Performance: Introduced in WordPress 5.0, the new block editor continues to improve. Most significantly, WordPress 5.1 includes solid performance improvements within the editor. The editor should feel a little quicker to start, and typing should feel smoother.
+* Multisite Metadata: 5.1 introduces a new database table to store metadata associated with sites and allows for the storage of arbitrary site data relevant in a multisite / network context.
+* Cron API: The Cron API has been updated with new functions to assist with returning data and includes new filters for modifying cron storage. Other changes in behavior affect cron spawning on servers running FastCGI and PHP-FPM versions 7.0.16 and above.
+* New JS Build Processes: WordPress 5.1 features a new JavaScript build option, following the large reorganisation of code that started in the 5.0 release.
+* Updates to values for the WP_DEBUG_LOG constant
+* New test config file constant in the test suite, new plugin action hooks
+* Short-circuit filters for wp_unique_post_slug(), WP_User_Query, and count_users()
+* A new human_readable_duration function
+* Improved taxonomy metabox sanitization
+* Limited LIKE support for meta keys when using WP_Meta_Query
+* A new "doing it wrong" notice when registering REST API endpoints
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

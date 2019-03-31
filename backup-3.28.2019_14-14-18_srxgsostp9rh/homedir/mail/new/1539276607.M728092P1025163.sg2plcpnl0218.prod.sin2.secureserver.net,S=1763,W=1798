@@ -1,0 +1,35 @@
+Return-Path: <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>
+Delivered-To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Received: from sg2plcpnl0218.prod.sin2.secureserver.net
+	by sg2plcpnl0218.prod.sin2.secureserver.net with LMTP id oHVqKj9/v1uLpA8ArmgpSg
+	for <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>; Thu, 11 Oct 2018 09:50:07 -0700
+Return-path: <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>
+Envelope-to: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Delivery-date: Thu, 11 Oct 2018 09:50:07 -0700
+Received: from root by sg2plcpnl0218.prod.sin2.secureserver.net with local (Exim 4.91)
+	(envelope-from <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>)
+	id 1gAeA3-004Loy-Jn
+	for srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net; Thu, 11 Oct 2018 09:50:07 -0700
+To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress installed
+Date: Thu, 11 Oct 2018 10:50:07 -0600
+From: noreply@sg2plcpnl0218.prod.sin2.secureserver.net
+Message-ID: <dcd650ba755bb9e375a962a6a84c5ac9@sg2plcpnl0218.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.40
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+WordPress v4.9.8 has been installed to:
+
+http://blog.csedvit.com
+http://blog.csedvit.com/wp-admin
+
+Administrator Username: zqmtlf
+Administrator Email: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+
+Login to your web hosting control panel and navigate to the Installatron tool to manage this install.
+
+End of report.
+

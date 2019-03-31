@@ -1,0 +1,36 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_eight-sec">
+    <key name="eight_sec_footer_setting_footer_copyright_text" />
+    <key name="eight_sec_header_setting_search_placeholder" />
+    <key name="eight_sec_homepage_setting_slider_section_category" />
+    <key name="eight_sec_homepage_setting_slider_section_readmore" />
+    <key name="eight_sec_homepage_setting_about_section_page" />
+    <key name="eight_sec_homepage_setting_about_section_select" />
+    <key name="eight_sec_homepage_setting_about_section_menu_title_text" />
+    <key name="eight_sec_homepage_setting_portfolio_section_menu_title_text" />
+    <key name="eight_sec_homepage_setting_portfolio_section_page" />
+    <key name="eight_sec_homepage_setting_portfolio_section_select" />
+    <key name="eight_sec_homepage_setting_portfolio_section_viewall" />
+    <key name="eight_sec_homepage_setting_team_section_menu_title_text" />
+    <key name="eight_sec_homepage_setting_team_section_page" />
+    <key name="eight_sec_homepage_setting_team_section_select" />
+    <key name="eight_sec_homepage_setting_team_section_viewall" />
+    <key name="eight_sec_homepage_setting_cta_section_menu_title_text" />
+    <key name="eight_sec_homepage_setting_cta_section_page" />
+    <key name="eight_sec_homepage_setting_cta_section_button_text" />
+    <key name="eight_sec_homepage_setting_cta_section_button_link" />
+    <key name="eight_sec_homepage_setting_blog_section_menu_title_text" />
+    <key name="eight_sec_homepage_setting_blog_section_page" />
+    <key name="eight_sec_homepage_setting_blog_section_select" />
+    <key name="eight_sec_homepage_setting_blog_section_viewall" />
+    <key name="eight_sec_homepage_setting_testimonial_section_menu_title_text" />
+    <key name="eight_sec_homepage_setting_testimonial_section_page" />
+    <key name="eight_sec_homepage_setting_testimonial_section_select" />
+    <key name="eight_sec_homepage_setting_contact_section_menu_title_text" />
+    <key name="eight_sec_homepage_setting_contact_section_page" />
+    <key name="eight_sec_homepage_settings_contact_section_form" />
+    <key name="eight_sec_blog_archive_setting_readmore" />
+</key>
+</admin-texts>
+</wpml-config>

@@ -1,0 +1,32 @@
+Return-Path: <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>
+Delivered-To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Received: from sg2plcpnl0218.prod.sin2.secureserver.net
+	by sg2plcpnl0218.prod.sin2.secureserver.net with LMTP id AMn3L0zl0Fu2LgcArmgpSg
+	for <srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net>; Wed, 24 Oct 2018 14:34:04 -0700
+Return-path: <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>
+Envelope-to: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Delivery-date: Wed, 24 Oct 2018 14:34:04 -0700
+Received: from root by sg2plcpnl0218.prod.sin2.secureserver.net with local (Exim 4.91)
+	(envelope-from <noreply@sg2plcpnl0218.prod.sin2.secureserver.net>)
+	id 1gFQmy-002426-NT
+	for srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net; Wed, 24 Oct 2018 14:34:04 -0700
+To: srxgsostp9rh@sg2plcpnl0218.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress plugin Yoast SEO 9.0.2 now available
+Date: Wed, 24 Oct 2018 15:34:04 -0600
+From: noreply@sg2plcpnl0218.prod.sin2.secureserver.net
+Message-ID: <883394fcd1d665f6f96eb07d43b1d5d6@sg2plcpnl0218.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.41
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to Yoast SEO 9.0.2 is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://csedvit.com
+
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+
