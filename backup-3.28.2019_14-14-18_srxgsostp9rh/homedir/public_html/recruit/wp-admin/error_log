@@ -1,7 +1,0 @@
-[13-Nov-2018 07:21:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/srxgsostp9rh/public_html/recruit/wp-content/plugins/wpforms-lite/includes/admin/ajax-actions.php on line 304
-[10-Dec-2018 15:58:01 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/srxgsostp9rh/public_html/recruit/wp-content/plugins/ninja-forms/includes/AJAX/Controllers/Submission.php on line 172
-[10-Dec-2018 15:58:01 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/srxgsostp9rh/public_html/recruit/wp-content/plugins/ninja-forms/includes/AJAX/Controllers/Submission.php on line 175
-[10-Dec-2018 15:58:01 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/srxgsostp9rh/public_html/recruit/wp-content/plugins/ninja-forms/includes/AJAX/Controllers/Submission.php on line 186
-[10-Dec-2018 16:06:33 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/srxgsostp9rh/public_html/recruit/wp-content/plugins/ninja-forms/includes/AJAX/Controllers/Submission.php on line 172
-[10-Dec-2018 16:06:33 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/srxgsostp9rh/public_html/recruit/wp-content/plugins/ninja-forms/includes/AJAX/Controllers/Submission.php on line 175
-[10-Dec-2018 16:06:33 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/srxgsostp9rh/public_html/recruit/wp-content/plugins/ninja-forms/includes/AJAX/Controllers/Submission.php on line 186
